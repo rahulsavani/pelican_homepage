@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<script type="text/javascript">
+    function disp(s) {
+        var win;
+        var doc;
+        win = window.open("", "WINDOWID");
+        doc = win.document;
+        doc.open("text/plain");
+        doc.write("<pre>" + s + "</pre>");
+        doc.close();
+    }
+</script>
+
+    <div class="pure-u">
+        <div class="content">
+            <h1 class="content-subhead">Publications</h1>
+            {% for yr in range(2014, 2009, -1) %}
+              <h2 class="entry-title">{{ yr }}</h2>
+              <ul>
+                {% for pub in publications %}
+                {% set key, year, text, bibtex, doi, url, pdf, slides, poster = pub %}
+                {% if "%s"|format(year) == "%s"|format(yr) %}
+                {% if doi != ""%}
+                {% set linkurl = "http://dx.doi.org/%s" % doi %}
+                {% else %}
+                {% set linkurl = url %}
+                {% endif %}
+                <li id="{{ key }}">{{ text }}
+                [&nbsp;<a href="javascript:disp('{{ bibtex|replace('\n', '\\n')|escape }}');">Bibtex</a>&nbsp;]
+                {% for label, target in [('Link', linkurl), ('PDF', pdf), ('Slides', slides), ('Poster', poster)] %}
+                {{ "[<a href=\"%s\" target=\"_blank\">%s</a>]" % (target, label) if target }}
+                {% endfor %}  
+                </li>
+                {% endif %}
+                {% endfor %}
+              </ul>
+            {% endfor %}
+            <h1 class="content-subhead">Selected Posters</h1>
+            {% for yr in range(2014, 2009, -1) %}
+              <ul>
+                {% for pub in posters %}
+                {% set key, year, text, bibtex, doi, url, pdf, slides, poster = pub %}
+                {% if "%s"|format(year) == "%s"|format(yr) %}
+                {% if doi != ""%}
+                {% set linkurl = "http://dx.doi.org/%s" % doi %}
+                {% else %}
+                {% set linkurl = url %}
+                {% endif %}
+                <li id="{{ key }}">{{ text }}
+                {% for label, target in [('Link', linkurl), ('PDF', pdf), ('Slides', slides), ('Poster', poster)] %}
+                {{ "[<a href=\"%s\" target=\"_blank\">%s</a>]" % (target, label) if target }}
+                {% endfor %}  
+                </li>
+                {% endif %}
+                {% endfor %}
+              </ul>
+            {% endfor %}
+        </div>
+        {% include 'footer.html' %}
+    </div>
+{% endblock %}

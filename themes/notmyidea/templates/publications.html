@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}Publications{% endblock %}
+{% block content %}
+
+<script type="text/javascript">
+    function disp(s) {
+        var win;
+        var doc;
+        win = window.open("", "WINDOWID");
+        doc = win.document;
+        doc.open("text/plain");
+        doc.write("<pre>" + s + "</pre>");
+        doc.close();
+    }
+</script>
+<section id="content" class="body">
+    <h1 class="entry-title">Publications</h1>
+	<!--Intro blurb -->
+	<p>
+	Below is the publication list with links to copies of the papers.
+	The links labelled "pdf" are to files that are made available here for 
+	personal, non-commercial
+	use only; those labelled "arXiv" link to full versions avialable on <A
+	HREF="http://arxiv.org">arXiv.org</A>; and those labelled "doi"/"url" link to 
+	publishers' official web pages.
+	</p>
+	<!-- Go through years in reverse chronological order -->
+    {% for yr in range(2015, 2007, -1)|list + [2006,2005,2004]  %}
+    <h2 class="entry-title">{{ yr }}</h2>
+		<ul>
+		{% for key, year, text, bibtex, pdf, doi, url, arxiv in publications %}
+		{% if "%s"|format(year) == "%s"|format(yr) %}
+
+		<!-- Display the main part of the reference -->
+		<li id="{{ key }}">{{ text }}
+		<!-- Define a link: either create it from the doi, or take it from the url field -->
+		{% if doi is not none%}
+		{% set linkurl = "http://dx.doi.org/%s" % doi %}
+		{% else %}
+		{% set linkurl = url %}
+		{% endif %}
+
+		[&nbsp;<a href="javascript:disp('{{ bibtex|replace('\n', '\\n')|replace('extbf','')|escape|forceescape }}');">bibtex</a>&nbsp;]
+		{% for label, target in [('arXiv', arxiv), ('pdf', pdf), ('doi/url', linkurl)] %}
+		{{ "[&nbsp;<a href=\"%s\">%s</a>&nbsp;]" % (target, label) if target }}
+		{% endfor %}
+		</li>
+		{% endif %}
+		{% endfor %}
+		</ul>
+	{% endfor %}
+</section>
+{% endblock %}
