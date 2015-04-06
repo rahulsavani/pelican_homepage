@@ -41,5 +41,5 @@ as in the following:
         }
 
 This change is not contained in this repo. The adaptation of pelican-bibtex is
-included (in plugns/pelican-bibtex) along with a new pybtex style (in
-rahul_style.py also in plugins/pelican-bibtex).
+included (in plugns/pelican-bibtex/pelican-bibtex.py) along with a new pybtex style (in
+plugins/pelican-bibtex/rahul_style.py).
