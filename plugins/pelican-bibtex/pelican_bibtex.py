@@ -78,6 +78,7 @@ def add_publications(generator):
     for formatted_entry in formatted_entries:
         key = formatted_entry.key
         entry = bibdata_all.entries[key]
+        pub_type = entry.type
         year = entry.fields.get('year')
         # This shouldn't really stay in the field dict
         # but new versions of pybtex don't support pop
@@ -106,7 +107,8 @@ def add_publications(generator):
         # remove \ that comes after Proc.
         text = text.replace("\\", "")
 
-        publications.append((key,
+        publications.append((pub_type,
+                             key,
                              year,
                              text,
                              bib_buf.getvalue(),

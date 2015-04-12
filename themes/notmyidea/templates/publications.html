@@ -24,15 +24,23 @@
 	HREF="http://arxiv.org">arXiv.org</A>; and those labelled "doi"/"url" link to 
 	publishers' official web pages.
 	</p>
+    <h3>Key for publiation type</h3>
+    <ul class="pub" >
+    <li class="pub"  data-type='article'> Refereed journal paper
+    <li class="pub"  data-type='inproceedings'> Refereed conference paper
+    <li class="pub"  data-type='unpublished'> Preprint
+    <li class="pub"  data-type='inbook'> Other
+    </ul>
+    <br/>
 	<!-- Go through years in reverse chronological order -->
     {% for yr in range(2015, 2007, -1)|list + [2006,2005,2004]  %}
     <h2 class="entry-title">{{ yr }}</h2>
-		<ul>
-		{% for key, year, text, bibtex, pdf, doi, url, arxiv in publications %}
-		{% if "%s"|format(year) == "%s"|format(yr) %}
+		<ul class="pub">
+		{% for pub_type, key, year, text, bibtex, pdf, doi, url, arxiv in publications %}
+        {% if "%s"|format(year) == "%s"|format(yr) %} <!-- only for the current year -->
 
 		<!-- Display the main part of the reference -->
-		<li id="{{ key }}">{{ text }}
+        <li class="pub" id="{{ key }}" data-type="{{ pub_type}}">{{ text }}
 		<!-- Define a link: either create it from the doi, or take it from the url field -->
 		{% if doi is not none%}
 		{% set linkurl = "http://dx.doi.org/%s" % doi %}

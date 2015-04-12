@@ -73,7 +73,6 @@ p { margin-top: 1em;
 strong, b {font-weight: bold;}
 em, i {font-style: italic;}
 
-/* Lists */
 ul {
 	list-style: outside disc;
 	margin: 0em 0 0 1.5em;
@@ -85,6 +84,57 @@ ol {
 }
 
 li { margin-top: 0.5em;}
+
+/* Publication List */
+ul.pub {
+	/* list-style: outside disc; */
+	/*list-style: square;*/
+	list-style: none;
+	margin: 0em 0 0 1.5em;
+}
+
+li.pub { 
+    margin-top: 0.5em;
+    padding-left: 1em; 
+    text-indent: -1.7em;
+}
+
+li.pub:before {
+    font-size: 120%;
+    padding-right:1em;
+    /*font-weight:900;*/
+    /*content: "■ ";*/
+}
+
+li.pub[data-type="unpublished"]:before {
+    content: "p";
+    color: green; 
+}
+
+li.pub[data-type="article"]:before {
+    content: "j";
+    color: purple; 
+}
+
+li.pub[data-type="inproceedings"]:before {
+    content: "c";
+    color: blue; 
+}
+
+li.pub[data-type~="inbook"]:before {
+    content: "o";
+    color: orange; 
+}
+
+li.pub[data-type~="techreport"]:before {
+    content: "o";
+    color: orange; 
+}
+
+li.pub[data-type~="phdthesis"]:before {
+    content: "o";
+    color: orange; 
+}
 
 .post-info {
     float:right;
