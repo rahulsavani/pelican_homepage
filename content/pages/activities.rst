@@ -19,11 +19,12 @@ Postdocs
 Grants
 ------
 
-==================  =========================   ====================================================  =========
-2013-2016           EPSRC grant                 Algorithms for finding approximate Nash equilibria    £276,828
-2012-2014           ESRC grant                  Modelling Intraday Cash Liquidity                     £217,711
-2006-2009           EPSRC Postdoc Fellowship    Algorithms for computing equilibria in games          £183,222
-==================  =========================   ====================================================  =========
+==================  ================================== =============================  ==============================================================  =========
+2015                European Space Agency grant        co-PI (PI: Karl Tuyls)         Game Theoretic Analysis of the Space Debris Removal Dilemma     €25,000            
+2013-2016           EPSRC grant                        PI  (co-I: Martin Gairing)     Algorithms for Finding Approximate Nash Equilibria              £276,828
+2012-2014           ESRC grant                         PI                             Modelling Intraday Cash Liquidity                               £217,711
+2006-2009           EPSRC Postdoc Fellowship           PI                             Algorithms for Computing Equilibria in Games                    £183,222
+==================  ================================== =============================  ==============================================================  =========
 
 .. http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L011018/1
 .. http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D067170/1

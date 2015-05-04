@@ -1,3 +1,4 @@
+cache/*
 output/*
 Makefile
 fabfile.py
