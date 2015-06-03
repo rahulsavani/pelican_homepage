@@ -23,7 +23,7 @@ Previous lecturing experience
 
 ==========================  ==================== ================================================ 
 University of Liverpool     2009-2011            COMP516 Research Methods for Computer Science
-University of Warwick       2009-2011            CS409 Algorithmic Game Theory 
+University of Warwick       2007-2009            CS409 Algorithmic Game Theory 
 McGill University           2007                 Guest lectures for COMP566 Discrete Optimization
 University of Leicester     2007                 CO7211 Discrete Event Systems
 University of Leicester     2006-2007            CO7212 Game Theory in Computer Science
