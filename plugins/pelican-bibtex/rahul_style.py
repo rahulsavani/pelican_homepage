@@ -359,13 +359,23 @@ class Style(BaseStyle):
     def format_misc(self, e):
         template = toplevel [
             optional[ sentence [self.format_names('author')] ],
-            optional[ self.format_title(e, 'title') ],
-            sentence[
-                optional[ field('howpublished') ],
-                optional[ date ],
+            "<BR/>",
+            sentence [
+                tag('bold') [field('title')],
             ],
-            sentence(capfirst=False) [ optional_field('note') ],
-            self.format_web_refs(e),
+            "<BR/>",
+            optional [
+                words [
+                    sentence [ field('note')],
+                    "<BR/>"  
+                ]
+            ],
+            #sentence[
+                #optional[ field('howpublished') ],
+                #optional[ date ],
+            #],
+            #sentence(capfirst=False) [ optional_field('note') ],
+            #self.format_web_refs(e),
         ]
         return template.format_data(e)
 
