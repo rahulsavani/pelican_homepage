@@ -32,6 +32,7 @@ Grants
 Program committee membership
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+`AAMAS 2016 <http://sis.smu.edu.sg/aamas2016/>`_;
 `SAGT 2015 <http://sagt2015.mpi-inf.mpg.de/>`_;
 `AAAI 2015 <http://www.aaai.org/Conferences/AAAI/aaai15.php>`_;
 `WINE 2014 <http://wine2014.amss.ac.cn/>`_;
