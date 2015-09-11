@@ -33,7 +33,7 @@
     </ul>
     <br/>
 	<!-- Go through years in reverse chronological order -->
-    {% for yr in range(2015, 2007, -1)|list + [2006,2005,2004]  %}
+    {% for yr in range(2016, 2007, -1)|list + [2006,2005,2004]  %}
     <h2 class="entry-title">{{ yr }}</h2>
 		<ul class="pub">
 		{% for pub_type, key, year, text, bibtex, pdf, doi, url, arxiv in publications %}
