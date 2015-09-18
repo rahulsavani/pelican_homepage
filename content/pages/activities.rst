@@ -4,6 +4,7 @@ Research activities
 PhD students
 ------------
 
+2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (co-supervisor with Karl Tuyls);
 2013- `Yifan Zhou <http://cgi.csc.liv.ac.uk/~m2yz1/>`_ (second supervisor);
 2013- `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_;
 2012- `Argyris Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_;
