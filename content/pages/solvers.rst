@@ -19,3 +19,7 @@ finding exact Nash equilibria.
   generators and algorithms for finding approximate Nash equilibria
   (also see this `SEA paper <http://arxiv.org/abs/1502.04980>`_)
 
+* https://github.com/rahulsavani/bimatrix_examples is a repository with
+  bimatrix game generators with their extreme equilibria, and code to 
+  test the output of lrs-nash
+  (http://cgm.cs.mcgill.ca/~avis/C/lrslib/USERGUIDE.html#nash) against these
