@@ -1,6 +1,20 @@
 Research activities
 ===================
 
+Program committee membership
+----------------------------
+
+SAGT 2016 (PC co-chair);
+`AAMAS 2016 <http://sis.smu.edu.sg/aamas2016/>`_;
+`SAGT 2015 <http://sagt2015.mpi-inf.mpg.de/>`_;
+`AAAI 2015 <http://www.aaai.org/Conferences/AAAI/aaai15.php>`_;
+`WINE 2014 <http://wine2014.amss.ac.cn/>`_;
+`ACM EC 2014 <http://www.sigecom.org/ec14/>`_;
+`AAAI 2014 <http://www.aaai.org/Conferences/AAAI/aaai14.php>`_;
+`ACM EC 2013 <http://www.sigecom.org/ec13/>`_;
+`IJCAI 2013 <http://ijcai13.org/>`_;
+`MFCS 2011 <http://mfcs.mimuw.edu.pl/>`_.
+
 PhD students
 ------------
 
@@ -20,26 +34,13 @@ Postdocs
 Grants
 ------
 
-==================  ================================== =============================  ==============================================================  =========
-2015                European Space Agency grant        co-PI (PI: Karl Tuyls)         Game Theoretic Analysis of the Space Debris Removal Dilemma     €25,000            
-2013-2016           EPSRC grant                        PI  (co-I: Martin Gairing)     Algorithms for Finding Approximate Nash Equilibria              £276,828
-2012-2014           ESRC grant                         PI                             Modelling Intraday Cash Liquidity                               £217,711
-2006-2009           EPSRC Postdoc Fellowship           PI                             Algorithms for Computing Equilibria in Games                    £183,222
-==================  ================================== =============================  ==============================================================  =========
+==================  ================================== =============================  ====================================================================  =========
+2015-2016           European Space Agency grant        co-PI (PI: Karl Tuyls)         Game Theoretic Analysis of the Space Debris Removal Dilemma [3]_      €25,000            
+2013-2016           EPSRC grant                        PI  (co-I: Martin Gairing)     Algorithms for Finding Approximate Nash Equilibria [2]_               £276,828
+2012-2014           ESRC grant                         PI                             Modelling Intraday Cash Liquidity                                     £217,711
+2006-2009           EPSRC Postdoc Fellowship           PI                             Algorithms for Computing Equilibria in Games [1]_                     £183,222
+==================  ================================== =============================  ====================================================================  =========
 
-.. http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L011018/1
-.. http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D067170/1
-
-Program committee membership
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-SAGT 2016 (co-PC chair);
-`AAMAS 2016 <http://sis.smu.edu.sg/aamas2016/>`_;
-`SAGT 2015 <http://sagt2015.mpi-inf.mpg.de/>`_;
-`AAAI 2015 <http://www.aaai.org/Conferences/AAAI/aaai15.php>`_;
-`WINE 2014 <http://wine2014.amss.ac.cn/>`_;
-`ACM EC 2014 <http://www.sigecom.org/ec14/>`_;
-`AAAI 2014 <http://www.aaai.org/Conferences/AAAI/aaai14.php>`_;
-`ACM EC 2013 <http://www.sigecom.org/ec13/>`_;
-`IJCAI 2013 <http://ijcai13.org/>`_;
-`MFCS 2011 <http://mfcs.mimuw.edu.pl/>`_.
+.. [1] http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D067170/1
+.. [2] http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L011018/1
+.. [3] http://www.esa.int/gsp/ACT/ai/projects/gt_debris.html; http://wordpress.csc.liv.ac.uk/smartlab/research/game-theoretic-analysis-of-the-space-debris-removal-dilemma/
