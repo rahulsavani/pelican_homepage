@@ -2,10 +2,11 @@ Short bio
 =========
 :date: 2015-04-05
 
-I am a Senior Lecturer (Associate Professor) in the Economics and Computation 
+I am a Reader (Associate Professor) in the Economics and Computation 
 Research Group in the Computer Science Department at the University of 
-Liverpool (since December 2013).
-I joined the Department as a Lecturer (Assistant Professor) in October 2009.
+Liverpool (since November 2015).
+I joined the Department as a Lecturer (Assistant Professor) in October 2009, and
+became a Senior Lecturer (Associate Professor) in December 2013.
 
 Previously I was as an EPSRC Postdoctoral Research Fellow in Theoretical Computer Science studying
 `algorithms for computing equilibria in games`_ at the University of Warwick (2006-2009).

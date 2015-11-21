@@ -19,15 +19,11 @@
 
 **Research Interests:** Game Theory, Algorithms, Automated Trading
 
-I am a Senior Lecturer in the Department of Computer Science at the 
+I am a Reader in the Department of Computer Science at the 
 University of Liverpool.  I work on problems at the interface of 
 economics/finance and computer science. I have worked extensively on 
 equilibrium computation for game-theoretic models of strategic interaction. 
 I have also worked as a consultant on a variety of algorithmic trading projects. 
-
-Previously I held a UK Engineering and Physical Sciences Research Council 
-(EPSRC) Postdoctoral Research Fellowship at the University of Warwick. Before 
-that I got a PhD in Mathematics from the London School of Economics.
 
 .. .. raw:: html
 .. 
@@ -35,5 +31,3 @@ that I got a PhD in Mathematics from the London School of Economics.
 ..     <a href="http://sm5.sitemeter.com/stats.asp?site=sm5rahulcount">
 ..     <img style="float:right" src="http://sm5.sitemeter.com/meter.asp?site=sm5rahulcount" alt="Site Meter"></a>
 ..     <!-- Copyright (c)2006 Site Meter -->
-
-
