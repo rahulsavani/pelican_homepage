@@ -4,7 +4,9 @@ Research activities
 Program committee membership
 ----------------------------
 
+
 SAGT 2016 (PC co-chair);
+`IJCAI 2016 <http://ijcai-16.org/>`_;
 `AAMAS 2016 <http://sis.smu.edu.sg/aamas2016/>`_;
 `SAGT 2015 <http://sagt2015.mpi-inf.mpg.de/>`_;
 `AAAI 2015 <http://www.aaai.org/Conferences/AAAI/aaai15.php>`_;
