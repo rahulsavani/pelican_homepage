@@ -17,17 +17,19 @@
 
 **Email:** firstname dot lastname at liverpool.ac.uk
 
-**Research Interests:** Game Theory, Algorithms, Automated Trading
+**Research Interests:** Game Theory, Algorithms & Complexity, Automated Trading, Agent-Based Modelling
 
 I am a Reader in the Department of Computer Science at the 
 University of Liverpool.  I work on problems at the interface of 
 economics/finance and computer science. I have worked extensively on 
 equilibrium computation for game-theoretic models of strategic interaction. 
 I have also worked as a consultant on a variety of algorithmic trading projects. 
+Currently, I lead the `Economics and Computation Research Group
+<http://www.csc.liv.ac.uk/research/ecco>`_.
 
-.. .. raw:: html
-.. 
-..     <!-- Site Meter -->
-..     <a href="http://sm5.sitemeter.com/stats.asp?site=sm5rahulcount">
-..     <img style="float:right" src="http://sm5.sitemeter.com/meter.asp?site=sm5rahulcount" alt="Site Meter"></a>
-..     <!-- Copyright (c)2006 Site Meter -->
+.. raw:: html
+
+    <!-- Site Meter -->
+    <a href="http://sm5.sitemeter.com/stats.asp?site=sm5rahulcount">
+    <img style="float:right" src="http://sm5.sitemeter.com/meter.asp?site=sm5rahulcount" alt="Site Meter"></a>
+    <!-- Copyright (c)2006 Site Meter -->
