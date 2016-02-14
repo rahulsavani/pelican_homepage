@@ -64,6 +64,16 @@ AUTHOR_FEED_RSS = None
     #('linkedin', 'https://www.linkedin.com/profile/view?id=17940020'),
     #)
 
+#FILES_TO_COPY = (
+            #('extra/CNAME', 'CNAME'),
+            #)
+STATIC_PATHS = [
+            'extra/CNAME',
+                ]
+EXTRA_PATH_METADATA = {
+            'extra/CNAME': {'path': 'CNAME'},
+                }
+
 
 DEFAULT_PAGINATION = 10
 
