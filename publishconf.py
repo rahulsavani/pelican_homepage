@@ -10,8 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-#SITEURL = 'http://cgi.csc.liv.ac.uk/~rahul'
-SITEURL = 'http://rahulsavani.uk'
+SITEURL = 'http://cgi.csc.liv.ac.uk/~rahul'
+#SITEURL = 'http://rahulsavani.uk'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None
