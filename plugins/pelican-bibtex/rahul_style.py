@@ -266,8 +266,13 @@ class Style(BaseStyle):
                     words [field('edition'), 'edition']
                 ],
                 #date,
-                optional_field('note'),
+                #"<BR/>",
+                #optional_field('note'),
                 ],
+            ],
+            "<BR/>",
+            sentence [
+                optional_field('note'),
             ],
             "<BR/>",
             #self.format_web_refs(e),
