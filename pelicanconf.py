@@ -54,15 +54,15 @@ AUTHOR_FEED_RSS = None
          #('You can modify those links in your config file', '#'),)
 
 # Social widget
-#SOCIAL = (
-    #('github', 'https://github.com/rahulsavani'),
-    #('bitbucket', 'https://bitbucket.org/rahulsavani'),
-    ##('stackex', 'http://stackexchange.com/users/280773/rahul-savani'),
-    #('dblp', 'http://dblp.uni-trier.de/pers/hy/s/Savani:Rahul'),
-    #('scholar', 'https://scholar.google.co.uk/citations?user=bfqfILEAAAAJ&hl=en'), 
-    #('facebook', 'https://www.facebook.com/rahul.savani'),
-    #('linkedin', 'https://www.linkedin.com/profile/view?id=17940020'),
-    #)
+SOCIAL = (
+    ('github', 'https://github.com/rahulsavani'),
+    ('bitbucket', 'https://bitbucket.org/rahulsavani'),
+    #('stackex', 'http://stackexchange.com/users/280773/rahul-savani'),
+    ('dblp', 'http://dblp.uni-trier.de/pers/hy/s/Savani:Rahul'),
+    ('scholar', 'https://scholar.google.co.uk/citations?user=bfqfILEAAAAJ&hl=en'), 
+    ('linkedin', 'https://www.linkedin.com/in/rahulsavani'),
+    ('facebook', 'https://www.facebook.com/rahul.savani'),
+    )
 
 #FILES_TO_COPY = (
             #('extra/CNAME', 'CNAME'),
