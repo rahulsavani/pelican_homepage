@@ -14,11 +14,11 @@ which in turn uses pybtex
 http://pybtex.sourceforge.net/
 
 One one minor change is made to pybtex, the addition of an extra
-tag for bold in the html backend. In detail, the following line
+symbol for a line break in the html backend. In detail, the following line
 
 .. code-block:: python
 
-    'bold': u'strong',
+    'br': u'<BR/>',
 
 is added to
 
@@ -33,11 +33,8 @@ as in the following:
         symbols = {
             'ndash': u'&ndash;',
             'newblock': u'\n',
-            'nbsp': u'&nbsp;'
-        }
-        tags = {
-            'emph': u'em',
-            'bold': u'strong',
+            'nbsp': u'&nbsp;',
+            'br': u'<BR/>'
         }
 
 This change is not contained in this repo. The adaptation of pelican-bibtex is

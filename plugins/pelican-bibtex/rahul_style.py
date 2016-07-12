@@ -32,7 +32,8 @@ def dashify(text):
     dash_re = re.compile(r'-+')
     return Text(Symbol('ndash')).join(dash_re.split(text))
 
-pages = field('pages', apply_func=dashify)
+# pages = field('pages', apply_func=dashify)
+pages = field('pages', apply_func=None)
 
 date = words [optional_field('month'), field('year')]
 
@@ -60,20 +61,20 @@ class Style(BaseStyle):
         ]
         template = toplevel [
             self.format_names('author'),
-            "<BR/>",
+            Symbol('br'),
             self.format_title(e, 'title'),
-            "<BR/>",
+            Symbol('br'),
             sentence(capfirst=False) [
                 tag('emph') [field('journal')],
-                #tag('bold') [field('journal')],
-                optional[ volume_and_pages ],
+                #tag('b') [field('journal')],
+                optional[ volume_and_pages ], # ABC ERROR
                 #date],
                 ],
-            "<BR/>",
+            Symbol('br'),
             optional [
                 words [
                     sentence [ field('note')],
-                    "<BR/>"  
+                    Symbol('br')  
                 ]
             ],
             #self.format_web_refs(e),
@@ -163,10 +164,13 @@ class Style(BaseStyle):
                 result += c
             return result
 
-        formatted_title = field(
-            which_field, apply_func=protected_capitalize)
+        formatted_title = field(which_field)
+
+        # formatted_title = field(  ABC ERROR
+            # which_field, apply_func=protected_capitalize)
+
         if as_sentence:
-            return sentence(capfirst=False) [tag('bold') [ formatted_title ]]
+            return sentence(capfirst=False) [tag('b') [ formatted_title ]]
         else:
             return formatted_title
 
@@ -244,12 +248,12 @@ class Style(BaseStyle):
     def format_inbook(self, e):
         template = toplevel [
             sentence [self.format_names('author')],
-            "<BR/>",
+            Symbol('br'),
             sentence [
-                tag('bold') [field('title')],
+                tag('b') [field('title')],
             ],
             self.format_volume_and_series(e),
-            "<BR/>",
+            Symbol('br'),
             words [
                 sentence(capfirst=True) [
                     self.format_chapter_and_pages(e),
@@ -258,7 +262,7 @@ class Style(BaseStyle):
                     #self.format_volume_and_series(e, as_sentence=False),
                     #self.format_chapter_and_pages(e),
                 ],
-            "<BR/>",
+            Symbol('br'),
             sentence [
                 field('publisher'),
                 optional_field('address'),
@@ -266,15 +270,15 @@ class Style(BaseStyle):
                     words [field('edition'), 'edition']
                 ],
                 #date,
-                #"<BR/>",
+                #Symbol('br'),
                 #optional_field('note'),
                 ],
             ],
-            "<BR/>",
+            Symbol('br'),
             sentence [
                 optional_field('note'),
             ],
-            "<BR/>",
+            Symbol('br'),
             #self.format_web_refs(e),
         ]
         return template.format_data(e)
@@ -305,28 +309,32 @@ class Style(BaseStyle):
     def format_inproceedings(self, e):
         template = toplevel [
             sentence [self.format_names('author')],
-            "<BR/>",
-            sentence(capfirst=True) [tag('bold') [self.format_title(e, 'title')]],
-            "<BR/>",
+            Symbol('br'),
+            sentence(capfirst=True) [tag('b') [self.format_title(e, 'title')]],
+            Symbol('br'),
             words [
                 'In',
                 sentence(capfirst=False) [
                     optional[ self.format_editor(e, as_sentence=False) ],
                     self.format_btitle(e, 'booktitle', as_sentence=False),
                     self.format_volume_and_series(e, as_sentence=False),
-                    optional[ pages ],
+                    # optional[ words [pages] ], 
+                    optional[ field('pages') ] 
+                    # optional_field('pages',apply_func=dashify) # ABC ERROR
                 ],
                 #self.format_address_organization_publisher_date(e),
-                "<BR/>",
+                Symbol('br'),
             ],
             optional [
                 words [
                     sentence [ field('note')],
-                    "<BR/>"  
+                    Symbol('br')  
                 ]
             ],
             #self.format_web_refs(e),
         ]
+        # print field('pages',apply_func=dashify) # ABC error
+
         return template.format_data(e)
 
     def format_manual(self, e):
@@ -364,15 +372,15 @@ class Style(BaseStyle):
     def format_misc(self, e):
         template = toplevel [
             optional[ sentence [self.format_names('author')] ],
-            "<BR/>",
+            Symbol('br'),
             sentence [
-                tag('bold') [field('title')],
+                tag('b') [field('title')],
             ],
-            "<BR/>",
+            Symbol('br'),
             optional [
                 words [
                     sentence [ field('note')],
-                    "<BR/>"  
+                    Symbol('br')  
                 ]
             ],
             #sentence[
@@ -387,9 +395,9 @@ class Style(BaseStyle):
     def format_phdthesis(self, e):
         template = toplevel [
             sentence [self.format_names('author')],
-            "<BR>",
+            Symbol('br'),
             self.format_btitle(e, 'title'),
-            "<BR>",
+            Symbol('br'),
             sentence[
                 'PhD thesis',
                 field('school'),
@@ -397,7 +405,7 @@ class Style(BaseStyle):
                 date,
             ],
             sentence(capfirst=False) [ optional_field('note') ],
-            "<BR>",
+            Symbol('br'),
             #self.format_web_refs(e),
         ]
         return template.format_data(e)
@@ -433,9 +441,9 @@ class Style(BaseStyle):
     def format_techreport(self, e):
         template = toplevel [
             sentence [self.format_names('author')],
-            "<BR\>",
+            Symbol('br'),
             self.format_title(e, 'title'),
-            "<BR\>",
+            Symbol('br'),
             sentence [
                 words[
                     first_of [
@@ -444,12 +452,12 @@ class Style(BaseStyle):
                     ],
                     optional_field('number')
                 ],
-                #"<BR\>",
+                #Symbol('br'),
                 #field('institution'),
                 #optional_field('address'),
                 #date,
             ],
-            "<BR\>",
+            Symbol('br'),
             sentence(capfirst=False) [ optional_field('note') ],
             #self.format_web_refs(e),
         ]
@@ -458,14 +466,14 @@ class Style(BaseStyle):
     def format_unpublished(self, e):
         template = toplevel [
             sentence [self.format_names('author')],
-            "<BR/>",
+            Symbol('br'),
             self.format_title(e, 'title'),
-            "<BR/>",
+            Symbol('br'),
             sentence(capfirst=False) [
                 field('note'),
                 optional[ date ]
             ],
-            "<BR/>",
+            Symbol('br'),
             #self.format_web_refs(e),
         ]
         return template.format_data(e)

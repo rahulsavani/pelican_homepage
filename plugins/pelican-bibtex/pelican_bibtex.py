@@ -103,7 +103,7 @@ def add_publications(generator):
         text = text.replace("\}", "")
         text = text.replace("}", "")
         # remove textbf used for cv
-        text = text.replace("\\textbf", "")
+        text = text.replace("\\textbf ", "")
         # remove \ that comes after Proc.
         text = text.replace("\\", "")
 
