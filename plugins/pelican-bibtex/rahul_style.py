@@ -417,11 +417,13 @@ class Style(BaseStyle):
                 optional [
                     join(' ')[
                         self.format_editor(e),
-                        sentence [
-                            self.format_btitle(e, 'title', as_sentence=False),
-                            self.format_volume_and_series(e, as_sentence=False),
-                            self.format_address_organization_publisher_date(e),
-                        ],
+                        Symbol('br'),
+                        sentence(capfirst=True) [tag('b') [self.format_title(e, 'title')]],
+                        #self.format_btitle(e, 'title', as_sentence=False),
+                        Symbol('br'),
+                        self.format_volume_and_series(e, as_sentence=False),
+                        self.format_address_organization_publisher_date(e),
+                        Symbol('br'),
                     ],
                 ],
                 # there is no editor
@@ -429,12 +431,11 @@ class Style(BaseStyle):
                 sentence [
                     self.format_btitle(e, 'title', as_sentence=False),
                     self.format_volume_and_series(e, as_sentence=False),
-                    self.format_address_organization_publisher_date(
-                        e, include_organization=False),
+                    #self.format_address_organization_publisher_date(e, include_organization=False),
                 ],
             ],
-            sentence(capfirst=False) [ optional_field('note') ],
-            self.format_web_refs(e),
+            #sentence(capfirst=False) [ optional_field('note') ],
+            #self.format_web_refs(e),
         ]
         return template.format_data(e)
 
@@ -471,9 +472,9 @@ class Style(BaseStyle):
             Symbol('br'),
             sentence(capfirst=False) [
                 field('note'),
-                optional[ date ]
+                #optional[ date ]
             ],
-            Symbol('br'),
+            #Symbol('br'),
             #self.format_web_refs(e),
         ]
         return template.format_data(e)

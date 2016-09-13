@@ -121,6 +121,11 @@ li.pub[data-type="inproceedings"]:before {
     color: blue; 
 }
 
+li.pub[data-type~="proceedings"]:before {
+    content: "o";
+    color: orange; 
+}
+
 li.pub[data-type~="misc"]:before {
     content: "o";
     color: orange; 

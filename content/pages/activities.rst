@@ -19,6 +19,7 @@ Program committee membership
 PhD students
 ------------
 
+2016- `Tom Spooner <https://www.linkedin.com/in/tspooner>`_;
 2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (co-supervisor with Karl Tuyls);
 2013- `Yifan Zhou <http://cgi.csc.liv.ac.uk/~m2yz1/>`_ (second supervisor);
 2013- `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_;
@@ -28,7 +29,8 @@ PhD students
 Postdocs
 --------
 
-2013- `John Fearnley <http://www.csc.liv.ac.uk/~john/>`_;
+2016 `Argyrios Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_;
+2013-16 `John Fearnley <http://www.csc.liv.ac.uk/~john/>`_;
 2012-14 Paul Devine;
 2010 Hynek Mlnarik.
 
