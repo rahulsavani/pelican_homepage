@@ -4,6 +4,7 @@ Research activities
 Program committee membership
 ----------------------------
 
+SAGT 2017;
 `SAGT 2016 <http://sagt16.csc.liv.ac.uk/>`_ (PC co-chair);
 `IJCAI 2016 <http://ijcai-16.org/>`_;
 `AAMAS 2016 <http://sis.smu.edu.sg/aamas2016/>`_;
@@ -19,18 +20,21 @@ Program committee membership
 PhD students
 ------------
 
+2016- `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_;
 2016- `Tom Spooner <https://www.linkedin.com/in/tspooner>`_;
-2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (co-supervisor with Karl Tuyls);
+2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
 2013- `Yifan Zhou <http://cgi.csc.liv.ac.uk/~m2yz1/>`_ (second supervisor);
 2013- `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_;
-2012- `Argyris Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_;
-2010-2014  `Keren Dong <http://www.csc.liv.ac.uk/~dkr/>`_.
+2012-2015 `Argyris Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_;
+2010-2014 `Keren Dong <http://www.csc.liv.ac.uk/~dkr/>`_.
 
 Postdocs
 --------
 
-2016 `Argyrios Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_;
-2013-16 `John Fearnley <http://www.csc.liv.ac.uk/~john/>`_;
+2016 `Argyrios Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_ (now a postdoc at
+the Technion);
+2013-16 `John Fearnley <http://www.csc.liv.ac.uk/~john/>`_ (now faculty at the
+University of Liverpool);
 2012-14 Paul Devine;
 2010 Hynek Mlnarik.
 
