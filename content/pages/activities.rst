@@ -4,6 +4,7 @@ Research activities
 Program committee membership
 ----------------------------
 
+`ACM EC 2017 <http://www.sigecom.org/ec17/>`_;
 SAGT 2017;
 `SAGT 2016 <http://sagt16.csc.liv.ac.uk/>`_ (PC co-chair);
 `IJCAI 2016 <http://ijcai-16.org/>`_;
@@ -20,7 +21,7 @@ SAGT 2017;
 PhD students
 ------------
 
-2016- `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_;
+2016- `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor);
 2016- `Tom Spooner <https://www.linkedin.com/in/tspooner>`_;
 2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
 2013- `Yifan Zhou <http://cgi.csc.liv.ac.uk/~m2yz1/>`_ (second supervisor);
