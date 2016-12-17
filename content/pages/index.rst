@@ -19,7 +19,7 @@
 
 **Research Interests:** Game Theory, Algorithms & Complexity, Automated Trading, Agent-Based Modelling
 
-I am a Reader in the Department of Computer Science at the 
+I am a Reader (Associate Professor) in the Department of Computer Science at the 
 University of Liverpool.  I work on problems at the interface of 
 economics/finance and computer science. I have worked extensively on 
 equilibrium computation for game-theoretic models of strategic interaction. 
