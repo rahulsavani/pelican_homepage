@@ -5,7 +5,7 @@ Program committee membership
 ----------------------------
 
 `ACM EC 2017 <http://www.sigecom.org/ec17/>`_;
-SAGT 2017;
+`SAGT 2017 <http://cs.gssi.infn.it/sagt2017/>`_;
 `SAGT 2016 <http://sagt16.csc.liv.ac.uk/>`_ (PC co-chair);
 `IJCAI 2016 <http://ijcai-16.org/>`_;
 `AAMAS 2016 <http://sis.smu.edu.sg/aamas2016/>`_;
