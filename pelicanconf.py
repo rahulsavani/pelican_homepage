@@ -17,7 +17,7 @@ DEFAULT_LANG = u'en'
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['pelican-bibtex']
-PUBLICATIONS_SRC = 'content/rs_pubs.bib'
+PUBLICATIONS_SRC = 'content/rs_pubs_web.bib'
 #PLUGINS = ['pelican_publications.publications',]
 
 DIRECT_TEMPLATES = ['publications']
