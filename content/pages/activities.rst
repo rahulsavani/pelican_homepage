@@ -11,6 +11,7 @@ Editor, Theory of Computing Systems (TOCS) special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
+`ACM-SIAM SODA 2018 <http://www.siam.org/meetings/da18/>`_;
 `ACM EC 2017 <http://www.sigecom.org/ec17/>`_;
 `SAGT 2017 <http://cs.gssi.infn.it/sagt2017/>`_;
 `SAGT 2016 <http://sagt16.csc.liv.ac.uk/>`_ (PC co-chair);
