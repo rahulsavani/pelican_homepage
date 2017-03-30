@@ -11,8 +11,8 @@ Editor, Theory of Computing Systems (TOCS) special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
-`ACM-SIAM SODA 2018 <http://www.siam.org/meetings/da18/>`_;
-`ACM EC 2017 <http://www.sigecom.org/ec17/>`_;
+`SODA 2018 <http://www.siam.org/meetings/da18/>`_;
+`EC 2017 <http://www.sigecom.org/ec17/>`_;
 `SAGT 2017 <http://cs.gssi.infn.it/sagt2017/>`_;
 `SAGT 2016 <http://sagt16.csc.liv.ac.uk/>`_ (PC co-chair);
 `IJCAI 2016 <http://ijcai-16.org/>`_;
@@ -20,9 +20,9 @@ Program committee membership
 `SAGT 2015 <http://sagt2015.mpi-inf.mpg.de/>`_;
 `AAAI 2015 <http://www.aaai.org/Conferences/AAAI/aaai15.php>`_;
 `WINE 2014 <http://wine2014.amss.ac.cn/>`_;
-`ACM EC 2014 <http://www.sigecom.org/ec14/>`_;
+`EC 2014 <http://www.sigecom.org/ec14/>`_;
 `AAAI 2014 <http://www.aaai.org/Conferences/AAAI/aaai14.php>`_;
-`ACM EC 2013 <http://www.sigecom.org/ec13/>`_;
+`EC 2013 <http://www.sigecom.org/ec13/>`_;
 `IJCAI 2013 <http://ijcai13.org/>`_;
 `MFCS 2011 <http://mfcs.mimuw.edu.pl/>`_.
 
