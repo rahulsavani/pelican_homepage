@@ -51,7 +51,7 @@ Grants
 ------
 
 ==================  ================================== =============================  ====================================================================  =========
-2015-2016           European Space Agency grant        co-PI (PI: Karl Tuyls)         Game Theoretic Analysis of the Space Debris Removal Dilemma [3]_      €25,000            
+2015-2016           European Space Agency grant        co-PI (PI: Karl Tuyls)         Game Theoretic Analysis of the Space Debris Removal Dilemma [3]_      €45,000            
 2013-2016           EPSRC grant                        PI  (co-I: Martin Gairing)     Algorithms for Finding Approximate Nash Equilibria [2]_               £276,828
 2012-2014           ESRC grant                         PI                             Modelling Intraday Cash Liquidity                                     £217,711
 2006-2009           EPSRC Postdoc Fellowship           PI                             Algorithms for Computing Equilibria in Games [1]_                     £183,222
