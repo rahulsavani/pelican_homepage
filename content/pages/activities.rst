@@ -12,6 +12,7 @@ Program committee membership
 ----------------------------
 
 `SODA 2018 <http://www.siam.org/meetings/da18/>`_;
+`AAMAS 2018 <http://celweb.vuse.vanderbilt.edu/aamas18/>`_ (SPC);
 `EC 2017 <http://www.sigecom.org/ec17/>`_;
 `SAGT 2017 <http://cs.gssi.infn.it/sagt2017/>`_;
 `SAGT 2016 <http://sagt16.csc.liv.ac.uk/>`_ (PC co-chair);
