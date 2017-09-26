@@ -67,6 +67,9 @@ def add_publications(generator):
     plain_style = RahulStyle()
     #plain_style = plain.Style()
     html_backend = html.Backend()
+
+    html_backend.symbols['br'] = u'<BR/>'
+            
     all_entries = bibdata_all.entries.values()
 
     # remove URL field if DOI is present
