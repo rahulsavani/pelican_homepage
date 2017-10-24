@@ -26,10 +26,3 @@ equilibrium computation for game-theoretic models of strategic interaction.
 I have also worked as a consultant on a variety of algorithmic trading projects. 
 Currently, I lead the `Economics and Computation Research Group
 <http://intranet.csc.liv.ac.uk/research/ecco>`_.
-
-.. raw:: html
-
-    <!-- Site Meter -->
-    <a href="http://sm5.sitemeter.com/stats.asp?site=sm5rahulcount">
-    <img style="float:right" src="http://sm5.sitemeter.com/meter.asp?site=sm5rahulcount" alt="Site Meter"></a>
-    <!-- Copyright (c)2006 Site Meter -->
