@@ -2,9 +2,9 @@ Short bio
 =========
 :date: 2015-04-05
 
-I am a Reader (Associate Professor) in the Economics and Computation 
+I am a Professor in the Economics and Computation 
 Research Group in the Computer Science Department at the University of 
-Liverpool (since November 2015).
+Liverpool.
 I joined the Department as a Lecturer (Assistant Professor) in October 2009, 
 became a Senior Lecturer (Associate Professor) in December 2013, a Reader in
 December 2015, and a Full Professor in December 2017.
