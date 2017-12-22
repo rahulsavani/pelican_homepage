@@ -24,5 +24,3 @@ University of Liverpool.  I work on problems at the interface of
 economics/finance and computer science. I have worked extensively on 
 equilibrium computation for game-theoretic models of strategic interaction. 
 I have also worked as a consultant on a variety of algorithmic trading projects. 
-Currently, I lead the `Economics and Computation Research Group
-<http://intranet.csc.liv.ac.uk/research/ecco>`_.
