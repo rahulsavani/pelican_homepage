@@ -34,7 +34,7 @@ PhD students
 2016- `Tom Spooner <https://www.linkedin.com/in/tspooner>`_;
 2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
 2013- `Yifan Zhou <http://cgi.csc.liv.ac.uk/~m2yz1/>`_ (second supervisor);
-2013- `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_;
+2013-2017 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_;
 2012-2015 `Argyris Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_;
 2010-2014 `Keren Dong <http://www.csc.liv.ac.uk/~dkr/>`_.
 
