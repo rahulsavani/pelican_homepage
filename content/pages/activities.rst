@@ -36,7 +36,7 @@ PhD students
 2013- `Yifan Zhou <http://cgi.csc.liv.ac.uk/~m2yz1/>`_ (second supervisor);
 2013-2017 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ (`Tobenna's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`_);
 2012-2015 `Argyris Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_ (`Argyrios' thesis <http://www.csc.liv.ac.uk/~rahul/papers/Argyrios_thesis.pdf>`_);
-2010-2014 `Keren Dong <http://www.csc.liv.ac.uk/~dkr/>`_.
+2010-2014 Keren Dong (`Keren's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Keren_thesis.pdf>`_).
 
 Postdocs
 --------
