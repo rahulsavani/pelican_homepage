@@ -34,11 +34,11 @@
     <br/>
 	<!-- Go through years in reverse chronological order -->
     {% for yr in range(2018, 2007, -1)|list + [2006,2005,2004]  %}
+	<br>
     <h2 class="entry-title">{{ yr }}</h2>
 		<ul class="pub">
 		{% for pub_type, key, year, text, bibtex, pdf, doi, url, arxiv in publications %}
         {% if "%s"|format(year) == "%s"|format(yr) %} <!-- only for the current year -->
-
 		<!-- Display the main part of the reference -->
         <li class="pub" id="{{ key }}" data-type="{{ pub_type}}">{{ text }}
 		<!-- Define a link: either create it from the doi, or take it from the url field -->
