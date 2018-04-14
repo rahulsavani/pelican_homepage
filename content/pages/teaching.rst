@@ -10,8 +10,7 @@ Current lecturing
 
 Since 2011/12:
 
-* `COMP 226: Computer-based trading in financial markets <http://www2.csc.liv.ac.uk/~rahul/teaching/comp226>`_
-* `COMP 396: Honours year automated trading project <http://www2.csc.liv.ac.uk/~rahul/teaching/comp396>`_
+* `COMP 226: Computer-Based Trading in Financial Markets <http://www2.csc.liv.ac.uk/~rahul/teaching/comp226>`_
 
 .. raw:: html
 
@@ -22,6 +21,7 @@ Previous lecturing experience
 -----------------------------
 
 ==========================  ==================== ================================================ 
+University of Liverpool     2011-2017            COMP396 Honours Year Automated Trading Project
 University of Liverpool     2009-2011            COMP516 Research Methods for Computer Science
 University of Warwick       2007-2009            CS409 Algorithmic Game Theory 
 McGill University           2007                 Guest lectures for COMP566 Discrete Optimization
