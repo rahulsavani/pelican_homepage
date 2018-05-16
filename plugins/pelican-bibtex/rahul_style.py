@@ -60,9 +60,9 @@ class Style(BaseStyle):
             words ['pages', pages],
         ]
         template = toplevel [
-            self.format_names('author'),
-            Symbol('br'),
             self.format_title(e, 'title'),
+            Symbol('br'),
+            self.format_names('author'),
             Symbol('br'),
             sentence(capfirst=False) [
                 tag('emph') [field('journal')],
@@ -247,11 +247,11 @@ class Style(BaseStyle):
 
     def format_inbook(self, e):
         template = toplevel [
-            sentence [self.format_names('author')],
-            Symbol('br'),
             sentence [
                 tag('b') [field('title')],
             ],
+            Symbol('br'),
+            sentence [self.format_names('author')],
             self.format_volume_and_series(e),
             Symbol('br'),
             words [
@@ -285,8 +285,8 @@ class Style(BaseStyle):
 
     def format_incollection(self, e):
         template = toplevel [
-            sentence [self.format_names('author')],
             self.format_title(e, 'title'),
+            sentence [self.format_names('author')],
             words [
                 'In',
                 sentence(capfirst=False) [
@@ -308,9 +308,9 @@ class Style(BaseStyle):
 
     def format_inproceedings(self, e):
         template = toplevel [
-            sentence [self.format_names('author')],
-            Symbol('br'),
             sentence(capfirst=True) [tag('b') [self.format_title(e, 'title')]],
+            Symbol('br'),
+            sentence [self.format_names('author')],
             Symbol('br'),
             words [
                 'In',
@@ -371,11 +371,11 @@ class Style(BaseStyle):
 
     def format_misc(self, e):
         template = toplevel [
-            optional[ sentence [self.format_names('author')] ],
-            Symbol('br'),
             sentence [
                 tag('b') [field('title')],
             ],
+            Symbol('br'),
+            optional[ sentence [self.format_names('author')] ],
             Symbol('br'),
             optional [
                 words [
@@ -394,9 +394,9 @@ class Style(BaseStyle):
 
     def format_phdthesis(self, e):
         template = toplevel [
-            sentence [self.format_names('author')],
-            Symbol('br'),
             self.format_btitle(e, 'title'),
+            Symbol('br'),
+            sentence [self.format_names('author')],
             Symbol('br'),
             sentence[
                 'PhD thesis',
@@ -416,9 +416,9 @@ class Style(BaseStyle):
                 # there are editors
                 optional [
                     join(' ')[
-                        self.format_editor(e),
-                        Symbol('br'),
                         sentence(capfirst=True) [tag('b') [self.format_title(e, 'title')]],
+                        Symbol('br'),
+                        self.format_editor(e),
                         #self.format_btitle(e, 'title', as_sentence=False),
                         Symbol('br'),
                         self.format_volume_and_series(e, as_sentence=False),
@@ -441,9 +441,9 @@ class Style(BaseStyle):
 
     def format_techreport(self, e):
         template = toplevel [
-            sentence [self.format_names('author')],
-            Symbol('br'),
             self.format_title(e, 'title'),
+            Symbol('br'),
+            sentence [self.format_names('author')],
             Symbol('br'),
             sentence [
                 words[
@@ -466,9 +466,9 @@ class Style(BaseStyle):
 
     def format_unpublished(self, e):
         template = toplevel [
-            sentence [self.format_names('author')],
-            Symbol('br'),
             self.format_title(e, 'title'),
+            Symbol('br'),
+            sentence [self.format_names('author')],
             Symbol('br'),
             sentence(capfirst=False) [
                 field('note'),

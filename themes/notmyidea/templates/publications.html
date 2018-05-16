@@ -48,10 +48,12 @@
 		{% set linkurl = url %}
 		{% endif %}
 
-		[&nbsp;<a href="javascript:disp('{{ bibtex|replace('\n', '\\n')|replace('extbf','')|escape|forceescape }}');">bibtex</a>&nbsp;]
+		[&nbsp;<a href="javascript:disp('{{ bibtex|replace('\n', '\\n')|replace('extbf','')|escape|forceescape }}');">bibtex</a>
 		{% for label, target in [('arXiv', arxiv), ('pdf', pdf), ('doi/url', linkurl)] %}
-		{{ "[&nbsp;<a href=\"%s\">%s</a>&nbsp;]" % (target, label) if target }}
+		{{ "| <a href=\"%s\">%s</a>" % (target, label) if target }}
 		{% endfor %}
+		&nbsp;]
+		<HR style="clear:both;" color="#F5F5F5"></li>
 		</li>
 		{% endif %}
 		{% endfor %}
