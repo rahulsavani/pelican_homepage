@@ -14,6 +14,18 @@
 @import url("typogrify.css");
 @import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
 
+pubtitle {
+    font-size: 1.286em
+}
+
+journal {
+    color: #47B200;
+}
+
+conference {
+    color: blue;
+}
+
 /***** Global *****/
 /* Body */
 body {
@@ -108,12 +120,12 @@ li.pub:before {
 
 li.pub[data-type="unpublished"]:before {
     content: "p";
-    color: green; 
+    color: purple; 
 }
 
 li.pub[data-type="article"]:before {
     content: "j";
-    color: purple; 
+    color: green; 
 }
 
 li.pub[data-type="inproceedings"]:before {
@@ -206,7 +218,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 0 auto; width: 800px;}
+.body {clear: both; margin: 0 auto; width: 950px;}
 img.right, figure.right {float: right; margin: 0 0 2em 2em;}
 img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
@@ -244,14 +256,14 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		margin: 0 auto 2em auto;
 		padding: 0;
 		text-align: center;
-		width: 800px;
+		width: 950px;
 		
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
 	
-	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
+	#banner nav ul {list-style: none; margin: 0 auto; width: 950px;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 	
 	#banner nav a:link, #banner nav a:visited {
@@ -315,7 +327,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
-	width: 760px;
+	width: 910px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;

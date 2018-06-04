@@ -39,7 +39,7 @@ date = words [optional_field('month'), field('year')]
 
 class Style(BaseStyle):
 
-    def format_names(self, role, as_sentence=True):
+    def format_names(self, role, as_sentence=False):
         formatted_names = names(role, sep=', ', sep2 = ' and ', last_sep=', and ')
         if as_sentence:
             return sentence(capfirst=False) [formatted_names]
@@ -64,12 +64,8 @@ class Style(BaseStyle):
             Symbol('br'),
             self.format_names('author'),
             Symbol('br'),
-            sentence(capfirst=False) [
-                tag('emph') [field('journal')],
-                #tag('b') [field('journal')],
-                optional[ volume_and_pages ], # ABC ERROR
-                #date],
-                ],
+            tag('journal') [tag('b') [field('journal')]],
+            optional[ volume_and_pages ], 
             Symbol('br'),
             optional [
                 words [
@@ -88,7 +84,7 @@ class Style(BaseStyle):
             self.format_editor(e),
         ]
 
-    def format_editor(self, e, as_sentence=True):
+    def format_editor(self, e, as_sentence=False):
         editors = self.format_names('editor', as_sentence=False)
         if 'editor' not in e.persons:
             # when parsing the template, a FieldIsMissing exception
@@ -105,7 +101,7 @@ class Style(BaseStyle):
         else:
             return result
     
-    def format_volume_and_series(self, e, as_sentence=True):
+    def format_volume_and_series(self, e, as_sentence=False):
         volume_and_series = optional [
             words [
                 'volume', field('volume'), optional [
@@ -146,7 +142,7 @@ class Style(BaseStyle):
             ]
         ]
 
-    def format_title(self, e, which_field, as_sentence=True):
+    def format_title(self, e, which_field, as_sentence=False):
 
         def protected_capitalize(x):
             """Capitalize string, but protect {...} parts."""
@@ -164,18 +160,22 @@ class Style(BaseStyle):
                 result += c
             return result
 
-        formatted_title = field(which_field)
+        # formatted_title = field(which_field)
+
+        formatted_title = tag('pubtitle') [ tag('b') [field(which_field)]]
 
         # formatted_title = field(  ABC ERROR
             # which_field, apply_func=protected_capitalize)
+
+        
 
         if as_sentence:
             return sentence(capfirst=False) [tag('b') [ formatted_title ]]
         else:
             return formatted_title
 
-    def format_btitle(self, e, which_field, as_sentence=True):
-        formatted_title = tag('emph') [ field(which_field) ]
+    def format_btitle(self, e, which_field, as_sentence=False):
+        formatted_title = tag('b') [ field(which_field) ]
         if as_sentence:
             return sentence[ formatted_title ]
         else:
@@ -308,20 +308,19 @@ class Style(BaseStyle):
 
     def format_inproceedings(self, e):
         template = toplevel [
-            sentence(capfirst=True) [tag('b') [self.format_title(e, 'title')]],
+            tag('b') [self.format_title(e, 'title')],
             Symbol('br'),
-            sentence [self.format_names('author')],
+            self.format_names('author'),
             Symbol('br'),
             words [
-                'In',
-                sentence(capfirst=False) [
-                    optional[ self.format_editor(e, as_sentence=False) ],
-                    self.format_btitle(e, 'booktitle', as_sentence=False),
-                    self.format_volume_and_series(e, as_sentence=False),
-                    # optional[ words [pages] ], 
-                    optional[ field('pages') ] 
-                    # optional_field('pages',apply_func=dashify) # ABC ERROR
-                ],
+                # 'In',
+                # optional[ self.format_editor(e, as_sentence=False) ],
+                # tag('conference') [self.format_btitle(e, 'booktitle', as_sentence=False)],
+                tag('conference') [self.format_btitle(e, 'shorttitle', as_sentence=False)],
+                # self.format_volume_and_series(e, as_sentence=False),
+                # optional[ words [pages] ], 
+                # optional[ field('pages') ],
+                # optional_field('pages',apply_func=dashify) # ABC ERROR
                 #self.format_address_organization_publisher_date(e),
                 Symbol('br'),
             ],
