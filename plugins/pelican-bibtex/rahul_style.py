@@ -69,7 +69,7 @@ class Style(BaseStyle):
             Symbol('br'),
             optional [
                 words [
-                    sentence [ field('note')],
+                    field('note'),
                     Symbol('br')  
                 ]
             ],
@@ -467,12 +467,10 @@ class Style(BaseStyle):
         template = toplevel [
             self.format_title(e, 'title'),
             Symbol('br'),
-            sentence [self.format_names('author')],
+            self.format_names('author'),
             Symbol('br'),
-            sentence(capfirst=False) [
-                field('note'),
+            field('note'),
                 #optional[ date ]
-            ],
             #Symbol('br'),
             #self.format_web_refs(e),
         ]
