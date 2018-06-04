@@ -326,7 +326,7 @@ class Style(BaseStyle):
             ],
             optional [
                 words [
-                    sentence [ field('note')],
+                    field('note'),
                     Symbol('br')  
                 ]
             ],
