@@ -247,9 +247,7 @@ class Style(BaseStyle):
 
     def format_inbook(self, e):
         template = toplevel [
-            sentence [
-                tag('b') [field('title')],
-            ],
+            tag('pubtitle') [tag('b') [field('title')]],
             Symbol('br'),
             sentence [self.format_names('author')],
             self.format_volume_and_series(e),
@@ -370,9 +368,7 @@ class Style(BaseStyle):
 
     def format_misc(self, e):
         template = toplevel [
-            sentence [
-                tag('b') [field('title')],
-            ],
+            tag('pubtitle') [tag('b') [field('title')]],
             Symbol('br'),
             optional[ sentence [self.format_names('author')] ],
             Symbol('br'),
@@ -393,7 +389,7 @@ class Style(BaseStyle):
 
     def format_phdthesis(self, e):
         template = toplevel [
-            self.format_btitle(e, 'title'),
+            tag('pubtitle') [self.format_btitle(e, 'title')],
             Symbol('br'),
             sentence [self.format_names('author')],
             Symbol('br'),
