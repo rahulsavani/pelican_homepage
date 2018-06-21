@@ -11,6 +11,7 @@ Editor, Theory of Computing Systems (TOCS) special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
+AAAI 2019;
 `SODA 2018 <http://www.siam.org/meetings/da18/>`_;
 `AAMAS 2018 <http://celweb.vuse.vanderbilt.edu/aamas18/>`_ (SPC);
 `EC 2017 <http://www.sigecom.org/ec17/>`_;
