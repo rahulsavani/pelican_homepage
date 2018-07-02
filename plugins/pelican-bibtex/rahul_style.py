@@ -508,7 +508,7 @@ class Style(BaseStyle):
         # based on urlbst format.doi
         return href [
             join [
-                'http://dx.doi.org/',
+                'https://doi.org/',
                 field('doi')
                 ],
             join [

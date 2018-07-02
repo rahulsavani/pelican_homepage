@@ -23,7 +23,7 @@
                 {% set key, year, text, bibtex, doi, url, pdf, slides, poster = pub %}
                 {% if "%s"|format(year) == "%s"|format(yr) %}
                 {% if doi != ""%}
-                {% set linkurl = "http://dx.doi.org/%s" % doi %}
+                {% set linkurl = "https://doi.org/%s" % doi %}
                 {% else %}
                 {% set linkurl = url %}
                 {% endif %}
@@ -44,7 +44,7 @@
                 {% set key, year, text, bibtex, doi, url, pdf, slides, poster = pub %}
                 {% if "%s"|format(year) == "%s"|format(yr) %}
                 {% if doi != ""%}
-                {% set linkurl = "http://dx.doi.org/%s" % doi %}
+                {% set linkurl = "https://doi.org/%s" % doi %}
                 {% else %}
                 {% set linkurl = url %}
                 {% endif %}
