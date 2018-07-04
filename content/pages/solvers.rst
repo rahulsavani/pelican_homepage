@@ -8,9 +8,13 @@ Game solvers
   (also see `this Computational Management Science paper <https://doi.org/10.1007/s10287-014-0206-x>`_,
   available as pdf on `arXiv <http://arxiv.org/abs/1403.3969>`_)
 
-* `Bimatrix Game Solver <http://banach.lse.ac.uk>`_  
+* `Web-based Bimatrix Game Solver <http://banach.lse.ac.uk>`_  
   (also see `this Economic Theory paper <https://doi.org/10.1007/s00199-009-0449-x>`_, 
   available as pdf `here <http://cgi.csc.liv.ac.uk/~rahul/papers/avisetal.pdf>`_)
+
+* https://github.com/rahulsavani/bimatrix_solver uses an identical back-end to
+  the web-based solvers above, but can be installed locally and used offline on
+  whatever size games you want.
 
 * `Gambit: Software Tools for Game Theory <http://www.gambit-project.org>`_
 
