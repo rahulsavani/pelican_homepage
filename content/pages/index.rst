@@ -17,7 +17,7 @@
 
 **Email:** firstname dot lastname at liverpool.ac.uk
 
-**Research Interests:** Game Theory, Algorithms & Complexity, Automated Trading, Agent-Based Modelling
+**Research Interests:** Game Theory, Algorithms & Complexity, Machine Learning, Automated Trading, Agent-Based Modelling
 
 I am a Professor in the Department of Computer Science at the 
 University of Liverpool.  I work on problems at the interface of 
