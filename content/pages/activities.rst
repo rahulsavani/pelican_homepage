@@ -42,8 +42,8 @@ PhD students
 Postdocs
 --------
 
-2016 `Argyrios Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_ (now a postdoc at
-the Technion);
+2016 `Argyrios Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_ (subsequently a postdoc at
+the Technion, and now a postdoc back at Liverpool);
 2013-16 `John Fearnley <http://www.csc.liv.ac.uk/~john/>`_ (now faculty at the
 University of Liverpool);
 2012-14 Paul Devine;
