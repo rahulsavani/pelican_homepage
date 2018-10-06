@@ -32,8 +32,11 @@ Program committee membership
 PhD students
 ------------
 
+2018- Azhan Rashid;
+2018- Emmanouil Bakopoulos (second supervisor);
+2017- Jacopo Castellini (co-supervisor);
 2016- `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor);
-2016- `Tom Spooner <https://www.linkedin.com/in/tspooner>`_;
+2016- `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_;
 2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
 2013-2018 `Yifan Zhou <http://cgi.csc.liv.ac.uk/~m2yz1/>`_ (second supervisor);
 2013-2018 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ (`Tobenna's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`_);
