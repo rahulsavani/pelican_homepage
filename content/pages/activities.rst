@@ -35,7 +35,7 @@ PhD students
 2018- `Nestoras Chalkidis <https://www.linkedin.com/in/nestoras-chalkidis-7b388798/>`_;
 2018- Azhan Rashid;
 2018- Emmanouil Bakopoulos (second supervisor);
-2017- Jacopo Castellini (co-supervisor);
+2017- `Jacopo Castellini <https://cgi.csc.liv.ac.uk/~jacopo/>`_ (co-supervisor);
 2016- `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor);
 2016- `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_;
 2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
