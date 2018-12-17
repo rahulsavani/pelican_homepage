@@ -32,6 +32,7 @@ Program committee membership
 PhD students
 ------------
 
+2018- `Nestoras Chalkidis <https://www.linkedin.com/in/nestoras-chalkidis-7b388798/>`_;
 2018- Azhan Rashid;
 2018- Emmanouil Bakopoulos (second supervisor);
 2017- Jacopo Castellini (co-supervisor);
@@ -66,3 +67,4 @@ Grants
 .. [1] http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D067170/1
 .. [2] http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L011018/1
 .. [3] http://www.esa.int/gsp/ACT/ai/projects/gt_debris.html; http://wordpress.csc.liv.ac.uk/smartlab/research/game-theoretic-analysis-of-the-space-debris-removal-dilemma/
+
