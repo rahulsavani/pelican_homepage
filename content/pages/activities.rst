@@ -39,7 +39,7 @@ PhD students
 2016- `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor);
 2016- `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_;
 2015- `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
-2013-2018 `Yifan Zhou <http://cgi.csc.liv.ac.uk/~m2yz1/>`_ (second supervisor);
+2013-2018 `Yifan Zhou <http://cgi.csc.liv.ac.uk/~yzhou/>`_ (second supervisor);
 2013-2018 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ (`Tobenna's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`_);
 2012-2016 `Argyris Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_ (`Argyrios' thesis <http://www.csc.liv.ac.uk/~rahul/papers/Argyrios_thesis.pdf>`_);
 2010-2014 Keren Dong (`Keren's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Keren_thesis.pdf>`_).
