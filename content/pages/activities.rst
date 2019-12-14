@@ -11,6 +11,7 @@ Editor, Theory of Computing Systems (TOCS) special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
+`IJCAI 2020 <https://ijcai20.org/>`_;
 `AAMAS 2019 <http://aamas2019.encs.concordia.ca/>`_ (SPC);
 `AAAI 2019 <https://aaai.org/Conferences/AAAI-19/>`_;
 `SODA 2018 <http://www.siam.org/meetings/da18/>`_;
@@ -32,17 +33,22 @@ Program committee membership
 PhD students
 ------------
 
+Current:
+
 2019- Antonia Tsili (second supervisor);
 2018- `Nestoras Chalkidis <http://cgi.csc.liv.ac.uk/~nestoras/>`_;
 2018- `Emmanouil Bakopoulos <https://cgi.csc.liv.ac.uk/~ebakop/>`_ (second supervisor);
 2017- `Jacopo Castellini <https://cgi.csc.liv.ac.uk/~jacopo/>`_ (co-supervisor);
 2017- `James Butterworth <https://cgi.csc.liv.ac.uk/~james/>`_ (second supervisor);
-2016- `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor);
 2016- `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_;
+
+Completed:
+
+2016-2019 `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor);
 2015-2019 `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
 2013-2018 `Yifan Zhou <http://cgi.csc.liv.ac.uk/~yzhou/>`_ (second supervisor);
-2013-2018 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ (`Tobenna's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`_);
-2012-2016 `Argyrios Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_ (`Argyrios' thesis <http://www.csc.liv.ac.uk/~rahul/papers/Argyrios_thesis.pdf>`_);
+2013-2018 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ [`Tobenna's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`_];
+2012-2016 `Argyrios Deligkas <http://www.csc.liv.ac.uk/~argyris/>`_ [`Argyrios' thesis <http://www.csc.liv.ac.uk/~rahul/papers/Argyrios_thesis.pdf>`_];
 2010-2014 Keren Dong (`Keren's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Keren_thesis.pdf>`_).
 
 Postdocs
