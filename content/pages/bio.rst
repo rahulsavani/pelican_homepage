@@ -30,17 +30,16 @@ As well as algorithmic game theory, I am interested in automated trading:
 
 * Subsequently, I provided consultancy services on automated trading for
   proprietary trading firms, such as `Marex Spectron
-  <http://www.marexspectron.com/>`_ and `Pyne Trading
-  <http://www.pynetrading.com/>`_, developing and implementing automated trading
-  strategies for futures markets. 
+  <http://www.marexspectron.com/>`_ and Pyne Trading, developing and
+  implementing automated trading strategies for futures markets. 
 
 * I supervised a PhD student, `Keren Dong <http://www.csc.liv.ac.uk/~dkr/>`_,
   jointly with `Arctic Lake <http://www.arcticlake.co.uk/>`_, a provider of
   electronic trading solutions. Keren worked mainly on VWAP execution
   algorithms.
 
-* From the start of 2015 to the end of 2018, I was a consultant for `Stratagem
-  Technologies <http://www.stratagem.co>`_, looking at automated trading in
+* From the start of 2015 to the end of 2018, I was a consultant for Stratagem
+  Technologies (acquired by Blockchain.com), looking at automated trading in
   sports betting markets, and in particular the use of reinforcement learning
   for market making.
 
