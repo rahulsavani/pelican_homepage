@@ -6,13 +6,15 @@ I am a Professor in the Economics and Computation
 Research Group in the Computer Science Department at the University of 
 Liverpool.
 I joined the Department as a Lecturer (Assistant Professor) in October 2009, 
-became a Senior Lecturer (Associate Professor) in December 2013, a Reader in
-December 2015, and a Full Professor in December 2017.
+became a Senior Lecturer (Associate Professor) in 2013, a Reader in
+2015, and a Full Professor in 2017.
 
-Previously I was as an EPSRC Postdoctoral Research Fellow in Theoretical Computer Science studying
-`algorithms for computing equilibria in games`_ at the University of Warwick (2006-2009).
+Previously I was an EPSRC Postdoctoral Research Fellow in Theoretical Computer
+Science studying `algorithms for computing equilibria in games`_ at the
+University of Warwick (2006-2009).
 
-Before that I studied at the `London School of Economics <http://www.lse.ac.uk>`_ (1997-2006):
+Before that I studied at the `London School of Economics
+<http://www.lse.ac.uk>`_ (1997-2006):
 
 * BSc Mathematics and Economics (2000)
 * MSc Operational Research (2001)
@@ -30,8 +32,8 @@ proprietary trading firms, such as `Marex Spectron
 <http://www.pynetrading.com/>`_, developing and implementing automated trading
 strategies for futures markets. I have supervised a PhD student, `Keren Dong
 <http://www.csc.liv.ac.uk/~dkr/>`_, jointly with `Arctic Lake
-<http://www.arcticlake.co.uk/>`_, a provider of electronic trading solutions;
-Keren is now working for a fund in Shanghai. From the start of 2015 to the end of 2018,
+<http://www.arcticlake.co.uk/>`_, a provider of electronic trading solutions.
+From the start of 2015 to the end of 2018,
 I was a consultant for
 `Stratagem Technologies <http://www.stratagem.co>`_, looking at automated
 trading in sports betting markets.
