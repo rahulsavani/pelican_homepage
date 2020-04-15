@@ -11,6 +11,7 @@ Editor, Theory of Computing Systems (TOCS) special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
+`ICAIF 2020 <https://ai-finance.org/>`_ (SPC);
 WINE 2020;
 `IJCAI 2020 <https://ijcai20.org/>`_;
 `AAMAS 2019 <http://aamas2019.encs.concordia.ca/>`_ (SPC);
