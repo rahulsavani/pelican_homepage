@@ -39,7 +39,7 @@ As well as algorithmic game theory, I am interested in automated trading:
   algorithms.
 
 * From the start of 2015 to the end of 2018, I was a consultant for Stratagem
-  Technologies (acquired by Blockchain.com), looking at automated trading in
+  Technologies (since acquired by Blockchain.com), looking at automated trading in
   sports betting markets, and in particular the use of reinforcement learning
   for market making.
 
