@@ -50,9 +50,9 @@ Completed:
 2016-2019 `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor);
 2015-2019 `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
 2013-2018 `Yifan Zhou <http://cgi.csc.liv.ac.uk/~yzhou/>`_ (second supervisor);
-2013-2018 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ [`Tobenna's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`_];
-2012-2016 `Argyrios Deligkas <https://sites.google.com/view/deligkas>`_ [`Argyrios' thesis <http://www.csc.liv.ac.uk/~rahul/papers/Argyrios_thesis.pdf>`_];
-2010-2014 Keren Dong (`Keren's thesis <http://www.csc.liv.ac.uk/~rahul/papers/Keren_thesis.pdf>`_).
+2013-2018 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`__];
+2012-2016 `Argyrios Deligkas <https://sites.google.com/view/deligkas>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Argyrios_thesis.pdf>`__];
+2010-2014 Keren Dong [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Keren_thesis.pdf>`__].
 
 Postdocs
 --------
