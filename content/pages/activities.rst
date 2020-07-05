@@ -47,7 +47,7 @@ Current:
 
 Completed:
 
-2016-2019 `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor);
+2016-2019 `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Greg_thesis.pdf>`__];
 2015-2019 `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor);
 2013-2018 `Yifan Zhou <http://cgi.csc.liv.ac.uk/~yzhou/>`_ (second supervisor);
 2013-2018 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`__];
