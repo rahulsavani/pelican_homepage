@@ -14,6 +14,7 @@ Program committee membership
 ICALP 2021;
 `ICAIF 2020 <https://ai-finance.org/>`_ (SPC);
 `WINE 2020 <https://econcs.pku.edu.cn/wine2020/>`_;
+`NeurIPS 2020 <https://nips.cc/Conferences/2020/>`_;
 `IJCAI 2020 <https://ijcai20.org/>`_;
 `AAMAS 2019 <http://aamas2019.encs.concordia.ca/>`_ (SPC);
 `AAAI 2019 <https://aaai.org/Conferences/AAAI-19/>`_;
