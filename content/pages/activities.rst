@@ -11,7 +11,7 @@ Editor of Theory of Computing Systems (TOCS) special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
-ICALP 2021;
+`ICALP 2021 <http://easyconferences.eu/icalp2021/>`_;
 `ICAIF 2020 <https://ai-finance.org/>`_ (SPC);
 `WINE 2020 <https://econcs.pku.edu.cn/wine2020/>`_;
 `NeurIPS 2020 <https://nips.cc/Conferences/2020/>`_;
