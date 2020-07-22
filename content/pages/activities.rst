@@ -53,7 +53,7 @@ Completed:
 2013-2018 `Yifan Zhou <http://cgi.csc.liv.ac.uk/~yzhou/>`_ (second supervisor);
 2013-2018 `Tobenna Peter Igwe <http://www.csc.liv.ac.uk/~ptigwe/>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Tobenna_thesis.pdf>`__];
 2012-2016 `Argyrios Deligkas <https://sites.google.com/view/deligkas>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Argyrios_thesis.pdf>`__];
-2010-2014 Keren Dong [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Keren_thesis.pdf>`__].
+2010-2014 `Keren Dong <https://www.linkedin.com/in/kerendong/>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Keren_thesis.pdf>`__].
 
 Postdocs
 --------
