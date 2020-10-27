@@ -36,7 +36,8 @@ As well as algorithmic game theory, I am interested in automated trading:
 * I supervised a PhD student, `Keren Dong <http://www.csc.liv.ac.uk/~dkr/>`_,
   jointly with `Arctic Lake <http://www.arcticlake.co.uk/>`_, a provider of
   electronic trading solutions. Keren worked mainly on VWAP execution
-  algorithms.
+  algorithms. Keren currently works for Taurus.ai, the startup that he founded
+  to provide algorithmic trading solutions within China.
 
 * From the start of 2015 to the end of 2018, I was a consultant for Stratagem
   Technologies (since acquired by Blockchain.com), looking at automated trading in
