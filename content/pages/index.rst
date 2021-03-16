@@ -21,6 +21,7 @@
 
 I am a Professor in the Department of Computer Science at the 
 University of Liverpool.  I work on problems at the interface of 
-economics/finance and computer science. I have worked extensively on 
-equilibrium computation for game-theoretic models of strategic interaction. 
+game theory/economics/finance and computer science. I have worked extensively on 
+equilibrium computation for game-theoretic models of strategic interaction,
+recently focusing also on multi-agent reinforcement learning.
 I have also worked as a consultant on a variety of algorithmic trading projects. 
