@@ -16,6 +16,9 @@ Game solvers
   the web-based solvers above, but can be installed locally and used offline on
   whatever size games you want.
 
+* https://github.com/rahulsavani/zerosum_matrix_game_solver solves matrix games 
+  via the pylibcdd exact arithmetic LP solver
+
 * `Gambit: Software Tools for Game Theory <http://www.gambit-project.org>`_
 
 * https://github.com/bimatrix-games is a repository of bimatrix game
