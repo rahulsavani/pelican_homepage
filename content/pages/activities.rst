@@ -40,7 +40,7 @@ PhD students
 
 Current:
 
-2019- Antonia Tsili (second supervisor);
+2019- `Antonia Tsili <http://linkedin.com/in/antonia-tsili>`_ (second supervisor);
 2018- `Nestoras Chalkidis <http://cgi.csc.liv.ac.uk/~nestoras/>`_;
 2017- `Jacopo Castellini <https://cgi.csc.liv.ac.uk/~jacopo/>`_ (co-supervisor);
 2017- `James Butterworth <https://cgi.csc.liv.ac.uk/~james/>`_ (second supervisor);
