@@ -20,7 +20,8 @@
 **Research Interests:** Game Theory, Algorithms & Complexity, Machine Learning, Automated Trading, Agent-Based Modelling
 
 I am a Professor in the Department of Computer Science at the 
-University of Liverpool.  I work on problems at the interface of 
+University of Liverpool; I am also a Visiting Researcher at the
+`Alan Turing Institute <https://www.turing.ac.uk/>`_. I work on problems at the interface of 
 game theory/economics/finance and computer science. I have worked extensively on 
 equilibrium computation for game-theoretic models of strategic interaction,
 recently focusing also on multi-agent reinforcement learning.
