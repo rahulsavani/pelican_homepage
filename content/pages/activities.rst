@@ -44,10 +44,10 @@ Current:
 2018- `Nestoras Chalkidis <http://cgi.csc.liv.ac.uk/~nestoras/>`_;
 2017- `Jacopo Castellini <https://cgi.csc.liv.ac.uk/~jacopo/>`_ (co-supervisor);
 2017- `James Butterworth <https://cgi.csc.liv.ac.uk/~james/>`_ (second supervisor);
-2016- `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_;
 
 Completed:
 
+2016-2021 `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Spooner_thesis.pdf>`__];
 2016-2019 `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Greg_thesis.pdf>`__];
 2015-2019 `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Richard_thesis.pdf>`__];
 2013-2018 `Yifan Zhou <http://cgi.csc.liv.ac.uk/~yzhou/>`_ (second supervisor);
