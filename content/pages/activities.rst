@@ -66,12 +66,12 @@ Postdocs
 Grants
 ------
 
-==================  ================================== ========================================================================================================================  =========
-2021-2022           J.P.Morgan AI Research             Multi-Agent Reinforcement Learning for Trading Problems                                                                   $90,000
-2020                Microsoft Research                 Multi-Agent Policy Gradients (Azure Compute Credits)                                                                      $20,000
-2015-2016           European Space Agency              Game Theoretic Analysis of the Space Debris Removal Dilemma                                                               €45,000            
-2013-2016           EPSRC                              `Algorithms for Finding Approximate Nash Equilibria <http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L011018/1>`_   £276,828
-2012-2014           ESRC                               Modelling Intraday Cash Liquidity                                                                                         £217,711
-2006-2009           EPSRC Postdoc Fellowship           `Algorithms for Computing Equilibria in Games <http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D067170/1>`_         £183,222
-==================  ================================== ========================================================================================================================  =========
+====================================  ============================================================== ================================================================================================================================================================================ =========
+2021-2022                             J.P.Morgan AI Research                                         `Robust Trading via Multi-Agent Adversarial Reinforcement Learning <https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/faculty-research-awards-2021>`_                                           $90,000
+2020                                  Microsoft Research                                             Multi-Agent Policy Gradients (Azure Compute Credits)                                                                                                                             $20,000
+2015-2016                             European Space Agency                                          Game Theoretic Analysis of the Space Debris Removal Dilemma                                                                                                                      €45,000            
+2013-2016                             EPSRC                                                          `Algorithms for Finding Approximate Nash Equilibria <http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L011018/1>`_                                                          £276,828
+2012-2014                             ESRC                                                           Modelling Intraday Cash Liquidity                                                                                                                                                £217,711
+2006-2009                             EPSRC Postdoc Fellowship                                       `Algorithms for Computing Equilibria in Games <http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D067170/1>`_                                                                £183,222
+====================================  ============================================================== ================================================================================================================================================================================ =========
 
