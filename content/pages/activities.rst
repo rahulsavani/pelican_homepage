@@ -58,6 +58,7 @@ Completed:
 Postdocs
 --------
 
+2022 Joe Jerome (working on J.P.Morgan AI Research Faculty Research Award);
 2016 `Argyrios Deligkas <https://sites.google.com/view/deligkas>`_ (now faculty at Royal Holloway, London);
 2013-16 `John Fearnley <http://www.csc.liv.ac.uk/~john/>`_ (now faculty at the University of Liverpool);
 2012-14 Paul Devine;
