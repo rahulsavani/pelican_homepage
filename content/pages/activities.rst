@@ -6,7 +6,7 @@ Research activities
 Editorial work
 --------------
 
-Associate Editor of the `International Journal of Game Theory (IJGT) <http://www.springer.com/economics/economic+theory/journal/182>`_
+2017 - present: Associate Editor of the `International Journal of Game Theory (IJGT) <http://www.springer.com/economics/economic+theory/journal/182>`_
 
 Editor of Theory of Computing Systems (TOCS) special issue for SAGT 2016
 
