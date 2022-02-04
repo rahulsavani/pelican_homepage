@@ -16,12 +16,14 @@ Editor of Theory of Computing Systems (TOCS) `special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
+`ICAIF 2022 <https://ai-finance.org/>`_ (PC co-chair);
 `ICALP 2021 <http://easyconferences.eu/icalp2021/>`_;
+`ICAIF 2021 <https://ai-finance.org/>`_;
 `AAMAS 2021 <https://aamas2021.soton.ac.uk/>`_ (SPC);
-`ICAIF 2020 <https://ai-finance.org/>`_;
 `WINE 2020 <https://econcs.pku.edu.cn/wine2020/>`_;
 `NeurIPS 2020 <https://nips.cc/Conferences/2020/>`_;
 `IJCAI 2020 <https://ijcai20.org/>`_;
+`ICAIF 2020 <https://ai-finance.org/>`_;
 `AAMAS 2019 <http://aamas2019.encs.concordia.ca/>`_ (SPC);
 `AAAI 2019 <https://aaai.org/Conferences/AAAI-19/>`_;
 `SODA 2018 <http://www.siam.org/meetings/da18/>`_;
