@@ -55,7 +55,7 @@ Current:
 
 Completed:
 
-2017-2022 `Jacopo Castellini <https://cgi.csc.liv.ac.uk/~jacopo/>`_ (co-supervisor);
+2017-2022 `Jacopo Castellini <https://cgi.csc.liv.ac.uk/~jacopo/>`_ (co-supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Jacopo_thesis.pdf>`__];
 2016-2021 `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Spooner_thesis.pdf>`__];
 2016-2019 `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Greg_thesis.pdf>`__];
 2015-2019 `Richard Klima <https://www.linkedin.com/pub/richard-kl%C3%ADma/61/175/272/en>`_ (second supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Richard_thesis.pdf>`__];
