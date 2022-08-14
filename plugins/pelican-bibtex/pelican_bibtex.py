@@ -45,11 +45,13 @@ def add_publications(generator):
         from pybtex.database.output.bibtex import Writer
         from pybtex.database import BibliographyData, PybtexError
         from pybtex.backends import html
-        #from pybtex.style.formatting import plain
-        from rahul_style import Style as RahulStyle
+        # from pybtex.style.formatting.plain import Style
+        # from rahul_style import Style as RahulStyle
+        from rahul_style import RahulStyle
 
-    except ImportError:
+    except ImportError as e:
         logger.warn('`pelican_bibtex` failed to load dependency `pybtex`')
+        print(e)
         return
 
     refs_file = generator.settings['PUBLICATIONS_SRC']
@@ -64,8 +66,13 @@ def add_publications(generator):
     publications = []
 
     # format entries
+
+    # plain_style = plain.Style()
     plain_style = RahulStyle()
-    #plain_style = plain.Style()
+
+    ##########################################################################
+    ##########################################################################
+
     html_backend = html.Backend()
 
     html_backend.symbols['br'] = u'<BR/>'
@@ -119,6 +126,10 @@ def add_publications(generator):
                              doi,
                              url,
                              arxiv))
+
+    # New Aug 2022: fix for unexplained fact that publications now are not 
+    # sorted by pub_type where they were before
+    publications = sorted(publications,key=lambda x: x[0], reverse=True) # reverse for p first
 
     generator.context['publications'] = publications
 

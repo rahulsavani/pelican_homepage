@@ -1,26 +1,24 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
+# AUTHOR = 'TEST_AUTHOR'
+# SITENAME = 'TEST_TITLE'
+# SITEURL = ''
 AUTHOR = u'Rahul Savani'
 SITENAME = u"Rahul Savani"
 SITEURL = ''
-
-#INDEX_SAVE_AS = 'index.html'
-#INDEX_URL = 'pages/'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
+###############################################################################
+# ADDED BY RAHUL:
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['pelican-bibtex']
 PUBLICATIONS_SRC = 'content/rs_pubs_web.bib'
-#PLUGINS = ['pelican_publications.publications',]
 
 DIRECT_TEMPLATES = ['publications']
+
 
 STATIC_PATHS = ['images']
 
@@ -40,6 +38,8 @@ MENUITEMS = (
 )
 
 
+###############################################################################
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -47,11 +47,19 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+
+###############################################################################
+# EDITED BY RAHUL:
+
 # Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-         #('Python.org', 'http://python.org/'),
-         #('Jinja2', 'http://jinja.pocoo.org/'),
-         #('You can modify those links in your config file', '#'),)
+# LINKS = (('Pelican', 'https://getpelican.com/'),
+         # ('Python.org', 'https://www.python.org/'),
+         # ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
+         # ('You can modify those links in your config file', '#'),)
+
+# Social widget
+# SOCIAL = (('You can add links in your config file', '#'),
+          # ('Another social link', '#'),)
 
 # Social widget
 SOCIAL = (
@@ -75,6 +83,9 @@ EXTRA_PATH_METADATA = {
                 }
 
 
+
+
 DEFAULT_PAGINATION = 10
 
-RELATIVE_URLS = False
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
