@@ -55,9 +55,14 @@ class RahulStyle(Style):
             Symbol('br'),
             self.format_names('author'),
             Symbol('br'),
-            field('note'),
-                #optional[ date ]
-            #Symbol('br'),
+            # field('note'),
+            #optional[ date ]
+            optional [
+                words [
+                    field('note'),
+                    Symbol('br')  
+                ]
+            ],
             #self.format_web_refs(e),
         ]
         # return template.format_data(e)
