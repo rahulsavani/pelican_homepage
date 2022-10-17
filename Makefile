@@ -14,6 +14,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 #SSH_TARGET_DIR=WHERE_TO_PUT_WEBSITE
 
 SSH_HOST=ssh1.csc.liv.ac.uk
+#SSH_HOST=ssh2.csc.liv.ac.uk
 SSH_PORT=22
 SSH_USER=rahul
 SSH_TARGET_DIR=public_html
