@@ -5,14 +5,16 @@
 :save_as: index.html
 :template: index
 
-**Secondment to Alan Turing Institute (ATI)**: 
+Secondment to Alan Turing Institute (ATI)
+-----------------------------------------
 
 Since 2023-04-01 (until late 2025) I am seconded to the ATI to lead a
 project "Automated Analysis of Strategic Interactions" with Prof Ted Turocy; 
 more info: https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions.
 
-For this project, I am still based in Liverpool, working with Ted and two 
-postdocs (from September 2023).
+For this project, I am still based in Liverpool, working with Ted, who is based
+at UEA, and two 
+postdocs, who are ATI employees but will be based in Liverpool (from September 2023).
 
 ......
 
