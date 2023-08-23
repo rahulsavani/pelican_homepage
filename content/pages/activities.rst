@@ -59,7 +59,7 @@ Current:
 
 Completed:
 
-2017-2023 `James Butterworth <https://cgi.csc.liv.ac.uk/~james/>`_ (second supervisor);
+2017-2023 `James Butterworth <https://www.linkedin.com/in/james-butterworth-88678218a/>`_ (second supervisor);
 2017-2022 `Jacopo Castellini <https://cgi.csc.liv.ac.uk/~jacopo/>`_ (co-supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Jacopo_thesis.pdf>`__];
 2016-2021 `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_ [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Spooner_thesis.pdf>`__];
 2016-2019 `Greg Palmer <http://cgi.csc.liv.ac.uk/~gpalmer/>`_ (second supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Greg_thesis.pdf>`__];
