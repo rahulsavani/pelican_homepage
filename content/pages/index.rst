@@ -5,6 +5,17 @@
 :save_as: index.html
 :template: index
 
+**Secondment to Alan Turing Institute (ATI)**: 
+
+Since 2023-04-01 (until late 2025) I am seconded to the ATI to lead a
+project "Automated Analysis of Strategic Interactions" with Prof Ted Turocy; 
+more info: https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions.
+
+For this project, I am still based in Liverpool, working with Ted and two 
+postdocs (from September 2023).
+
+......
+
 .. raw:: html
 
     <IMG src="http://cgi.csc.liv.ac.uk/~rahul/images/rahul.jpg" alt="Rahul Savani" HEIGHT="130" style="float:right">
