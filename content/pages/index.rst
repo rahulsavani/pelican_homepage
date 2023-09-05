@@ -9,12 +9,15 @@ Secondment to Alan Turing Institute (ATI)
 -----------------------------------------
 
 Since 2023-04-01 (until late 2025) I am seconded to the ATI to lead a
-project "Automated Analysis of Strategic Interactions" with Prof Ted Turocy; 
+project "Automated Analysis of Strategic Interactions" with `Prof Ted Turocy <https://tturocy.github.io/>`_; 
 more info: https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions.
 
 For this project, I am still based in Liverpool, working with Ted, who is based
 at UEA, and two 
-postdocs, who are ATI employees but will be based in Liverpool (from September 2023).
+postdocs
+(`Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_ and 
+`Konstantinos Varsos <https://www.turing.ac.uk/people/konstantinos-varsos>`_), 
+who are ATI employees but will be based in Liverpool (from September 2023).
 
 ......
 
