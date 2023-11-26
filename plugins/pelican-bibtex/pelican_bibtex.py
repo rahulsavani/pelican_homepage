@@ -108,9 +108,9 @@ def add_publications(generator):
 
         # prettify entries
         # remove BibTeX's {}
-        text = text.replace("\{", "")
+        text = text.replace(r"\{", "")
         text = text.replace("{", "")
-        text = text.replace("\}", "")
+        text = text.replace(r"\}", "")
         text = text.replace("}", "")
         # remove textbf used for cv
         text = text.replace("\\textbf ", "")
