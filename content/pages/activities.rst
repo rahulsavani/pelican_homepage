@@ -18,6 +18,7 @@ Editor of Theory of Computing Systems (TOCS) `special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
+`ECAI 2024 <https://www.ecai2024.eu/>`_;
 `AAMAS 2023 <http://aamas2019.soton.ac.uk/>`_ (SPC);
 `ICAIF 2022 <https://ai-finance.org/>`_ (PC co-Chair);
 `ICALP 2021 <http://easyconferences.eu/icalp2021/>`_;
