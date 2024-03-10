@@ -75,8 +75,9 @@ Completed:
 Postdocs
 --------
 
-2023-2025 `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_ and  `Konstantinos Varsos <https://www.turing.ac.uk/people/konstantinos-varsos>`_
+2023- `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_
 (working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
+2023 `Konstantinos Varsos <https://scholar.google.com/citations?user=NmzSi5kAAAAJ>`_;
 2022 `Joe Jerome <https://uk.linkedin.com/in/joseph-jerome-29b046173>`_ (working on J.P.Morgan AI Research Faculty Research Award);
 2016 `Argyrios Deligkas <https://sites.google.com/view/deligkas>`_ (now faculty at Royal Holloway, London);
 2013-16 `John Fearnley <http://www.csc.liv.ac.uk/~john/>`_ (now faculty at the University of Liverpool);
