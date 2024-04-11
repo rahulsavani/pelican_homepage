@@ -5,28 +5,6 @@
 :save_as: index.html
 :template: index
 
-
-POSTDOC APPLICATION DEADLINE 7TH APRIL 2024: 
-============================================
-
-Automated Analysis of Strategic Interactions
---------------------------------------------
-
-- https://www.jobs.ac.uk/job/DGK292/research-associate-automated-analysis-of-strategic-interactions
-- https://www.linkedin.com/jobs/view/3847580265
-
-Come work with me, `Ted Turocy <https://tturocy.github.io/>`_;, and `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_ 
-(and others) on problems at the intersection of Game Theory and Reinforcement Learning.
-
-Working on our project - `Automated analysis of strategic interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_ -
-you will be both publishing cutting-edge research and helping to build the next generation of Gambit software tools (http://gambit-project.org) for modelling and analysing game-theoretic models.
-
-You will be affiliated with, and based at, either the University of Liverpool or University of East Anglia, while being an employee of the Alan Turing Institute, the UK's National Data Science and AI Centre.
-
-Any questions, feel free to message me.
-
-......
-
 Secondment to Alan Turing Institute (ATI)
 -----------------------------------------
 
