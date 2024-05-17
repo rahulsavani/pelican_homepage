@@ -55,6 +55,7 @@ PhD students
 
 Current:
 
+2023- `Shilong Deng <https://scholar.google.com/citations?user=79_LyAIAAAAJ>`_;
 2022- `Daniel Hampson <https://uk.linkedin.com/in/daniel-hampson>`_;
 2022- `Federico Ottomano <http://linkedin.com/in/federico-ottomano-304ab9148>`_ (second supervisor; Fede started in 2020);
 2019- `Antonia Tsili <http://linkedin.com/in/antonia-tsili>`_ (second supervisor).
