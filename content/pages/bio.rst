@@ -44,19 +44,18 @@ As well as algorithmic game theory, I am interested in automated trading:
   sports betting markets, and in particular the use of reinforcement learning
   for market making.
 
-* I supervise a PhD student,
+* I supervised a PhD student,
   `Tom Spooner <http://cgi.csc.liv.ac.uk/~tspooner/>`_ 
   on reinforcement learning for market making; after his PhD he joined 
-  the AI team at JP Morgan in London, before moving on to a VC.
+  the AI team at JP Morgan in London, before moving on to a VC. Tom is now at GSR.
 
-* I currently supervise `Nestoras Chalkidis
-  <http://cgi.csc.liv.ac.uk/~nestoras/>`_, who is funded by the Centre for
+* I supervised `Nestoras Chalkidis
+  <http://cgi.csc.liv.ac.uk/~nestoras/>`_, who was funded by the Centre for
   Doctoral Training in Risk and Uncertainy; he mainly works on classification
   for financial time series.
 
-* In 2021/22 I have a Faculty Research Award from JP Morgan AI Research. Joe
+* In 2021/22 I had a Faculty Research Award from JP Morgan AI Research. Joe
   Jerome, who has a PhD in Mathematical Finance from the University of Warwick,
-  is working on the project where we are exploring multi-agent reinforcement 
-  learning for market making and other trading problems.
+  working on this project, exploring reinforcement learning for market making and other trading problems.
 
 .. _`algorithms for computing equilibria in games`: http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D067170/1
