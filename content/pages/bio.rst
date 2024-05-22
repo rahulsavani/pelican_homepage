@@ -56,6 +56,6 @@ As well as algorithmic game theory, I am interested in automated trading:
 
 * In 2021/22 I had a Faculty Research Award from JP Morgan AI Research. Joe
   Jerome, who has a PhD in Mathematical Finance from the University of Warwick,
-  working on this project, exploring reinforcement learning for market making and other trading problems.
+  worked on this project, exploring reinforcement learning for market making and other trading problems.
 
 .. _`algorithms for computing equilibria in games`: http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D067170/1
