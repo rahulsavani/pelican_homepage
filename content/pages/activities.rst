@@ -79,7 +79,8 @@ Completed:
 Postdocs
 --------
 
-2023- `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_
+2024- `Eleni Batziou <https://dblp.org/pid/287/4779.html>`_ (working on EPSRC grant with John Fearnley (PI));
+2023- `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_ 
 (working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
 2023 `Konstantinos Varsos <https://scholar.google.com/citations?user=NmzSi5kAAAAJ>`_;
 2022 `Joe Jerome <https://uk.linkedin.com/in/joseph-jerome-29b046173>`_ (working on J.P.Morgan AI Research Faculty Research Award);
