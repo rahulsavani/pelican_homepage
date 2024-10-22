@@ -14,8 +14,10 @@ more info: https://www.turing.ac.uk/research/research-projects/automated-analysi
 
 For this project, I am still based in Liverpool, working with Ted, who is based
 at UEA, and 
-`Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_,
-who is an ATI employee based in Liverpool.
+`Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_
+and
+`Daniel Kadnikov <https://www.turing.ac.uk/people/daniel-kadnikov>`_ 
+who are ATI employees (with Yongzhao based in Liverpool).
 
 ......
 

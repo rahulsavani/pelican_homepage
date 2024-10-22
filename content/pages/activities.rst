@@ -21,7 +21,7 @@ Program committee membership
 ----------------------------
 
 `AAMAS 2025 <https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Conference#tab-recent-activity>`_ (SPC);
-`ECAI 2024 <https://www.ecai2024.eu/>`_;
+`ECAI 2024 <https://www.ecai2024.eu/>`_ [Outstanding PC Member Award];
 `AAMAS 2023 <http://aamas2019.soton.ac.uk/>`_ (SPC);
 `ICAIF 2022 <https://ai-finance.org/>`_ (PC co-Chair);
 `ICALP 2021 <http://easyconferences.eu/icalp2021/>`_;
@@ -79,9 +79,12 @@ Completed:
 Postdocs
 --------
 
+2024- `Daniel Kadnikov <https://www.turing.ac.uk/people/daniel-kadnikov>`_ 
+(working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
 2024- `Eleni Batziou <https://dblp.org/pid/287/4779.html>`_ (working on EPSRC grant with John Fearnley (PI));
 2023- `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_ 
 (working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
+2023  `Spencer Gordon <https://dblp.org/pid/195/5560.html>`_ (working on EPSRC grant with John Fearnley (PI));
 2023 `Konstantinos Varsos <https://scholar.google.com/citations?user=NmzSi5kAAAAJ>`_;
 2022 `Joe Jerome <https://uk.linkedin.com/in/joseph-jerome-29b046173>`_ (working on J.P.Morgan AI Research Faculty Research Award);
 2016 `Argyrios Deligkas <https://sites.google.com/view/deligkas>`_ (now faculty at Royal Holloway, London);
