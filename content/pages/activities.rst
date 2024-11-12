@@ -60,10 +60,10 @@ Current:
 2023- `Shilong Deng <https://scholar.google.com/citations?user=79_LyAIAAAAJ>`_;
 2022- `Daniel Hampson <https://uk.linkedin.com/in/daniel-hampson>`_;
 2022- `Federico Ottomano <http://linkedin.com/in/federico-ottomano-304ab9148>`_ (second supervisor; Fede started in 2020);
-2019- `Antonia Tsili <http://linkedin.com/in/antonia-tsili>`_ (second supervisor).
 
 Completed:
 
+2019-2024 `Antonia Tsili <http://linkedin.com/in/antonia-tsili>`_ (second supervisor);
 2018-2024 `Nestoras Chalkidis <http://cgi.csc.liv.ac.uk/~nestoras/>`_;
 2017-2023 `James Butterworth <https://www.linkedin.com/in/james-butterworth-88678218a/>`_ (second supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Butterworth_thesis.pdf>`__];
 2017-2022 `Jacopo Castellini <https://cgi.csc.liv.ac.uk/~jacopo/>`_ (co-supervisor) [`thesis <http://www.csc.liv.ac.uk/~rahul/papers/Jacopo_thesis.pdf>`__];
