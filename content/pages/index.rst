@@ -8,7 +8,7 @@
 Secondment to Alan Turing Institute (ATI)
 -----------------------------------------
 
-Since 2023-04-01 (until late 2025) I am seconded to the ATI to lead a
+Since 2023-04-01 (until Sept 2026) I am seconded to the ATI to lead a
 project "Automated Analysis of Strategic Interactions" with `Prof Ted Turocy <https://tturocy.github.io/>`_; 
 more info: https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions.
 
