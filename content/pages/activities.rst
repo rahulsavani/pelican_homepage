@@ -20,6 +20,7 @@ Editor of Theory of Computing Systems (TOCS) `special issue for SAGT 2016
 Program committee membership
 ----------------------------
 
+`DAI 2025 <https://www.adai.ai/dai/2025/index.html>`_;
 `IJCAI 2025 <https://2025.ijcai.org/>`_ (Area Chair);
 `AAMAS 2025 <https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Conference#tab-recent-activity>`_ (SPC);
 `ECAI 2024 <https://www.ecai2024.eu/>`_ [Outstanding PC Member Award];
