@@ -81,10 +81,12 @@ Completed:
 Postdocs
 --------
 
+2025- `Stephen Pasteris <https://www.turing.ac.uk/people/researchers/stephen-pasteris>`_
+(working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
 2024- `Daniel Kadnikov <https://www.turing.ac.uk/people/daniel-kadnikov>`_ 
 (working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
 2024- `Eleni Batziou <https://dblp.org/pid/287/4779.html>`_ (working on EPSRC grant with John Fearnley (PI));
-2023- `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_ 
+2023-2025 `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_ 
 (working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
 2023  `Spencer Gordon <https://dblp.org/pid/195/5560.html>`_ (working on EPSRC grant with John Fearnley (PI));
 2023 `Konstantinos Varsos <https://scholar.google.com/citations?user=NmzSi5kAAAAJ>`_;
@@ -99,9 +101,9 @@ Postdocs
 Grants / Funded Research Projects
 ---------------------------------
 
-====================================  ============================================================== ================================================================================================================================================================================ =========
-2023-2025                             The Alan Turing Institute (75\% secondment)                    `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_ (co-PI: Ted Turocy)             
-2023-2025                             EPSRC (role: co-I)                                             `New Techniques for Resolving Boundary Problems in Total Search <https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014750/1>`_ (PI: John Fearnley)                      £441,269
+====================================  ============================================================== ================================================================================================================================================================================ ==========
+2024-2029                             UKRI (role: co-I)                                              `AI for Chemistry (AIchemy) Hub <https://gtr.ukri.org/projects?ref=EP%2FY028759%2F1>`_                                                                                           £5,526,000
+2023-2026                             EPSRC (role: co-I)                                             `New Techniques for Resolving Boundary Problems in Total Search <https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014750/1>`_ (PI: John Fearnley)                      £441,269
 2022                                  The Alan Turing Institute                                      AI Approaches for Partially Observable Adversarial Games                                                                                                                         £159,500 
 2022                                  J.P.Morgan AI Research                                         `Robust Trading via Multi-Agent Adversarial Reinforcement Learning <https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/faculty-research-awards-2021>`_  $90,000
 2021-2022                             The Alan Turing Institute (role: co-I)                         Exploitation of Ciphers, Protocols and Anonymity Networks with Reinforcement Learning (PIs: Hicks and Mavroudis)                                                                 £11,760
@@ -110,7 +112,7 @@ Grants / Funded Research Projects
 2013-2016                             EPSRC                                                          `Algorithms for Finding Approximate Nash Equilibria <https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/L011018/1>`_                                                      £276,828
 2012-2014                             ESRC                                                           Modelling Intraday Cash Liquidity                                                                                                                                                £217,711
 2006-2009                             EPSRC Postdoc Fellowship                                       `Algorithms for Computing Equilibria in Games <https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/D067170/1>`_                                                            £183,222
-====================================  ============================================================== ================================================================================================================================================================================ =========
+====================================  ============================================================== ================================================================================================================================================================================ ==========
 
 .. |br| raw:: html
 

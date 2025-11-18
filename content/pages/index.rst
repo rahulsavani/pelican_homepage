@@ -12,13 +12,6 @@ Since 2023-04-01 (until Sept 2026) I am seconded to the ATI to lead a
 project "Automated Analysis of Strategic Interactions" with `Prof Ted Turocy <https://tturocy.github.io/>`_; 
 more info: https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions.
 
-For this project, I am still based in Liverpool, working with Ted, who is based
-at UEA, and 
-`Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_
-and
-`Daniel Kadnikov <https://www.turing.ac.uk/people/daniel-kadnikov>`_ 
-who are ATI employees (with Yongzhao based in Liverpool).
-
 ......
 
 .. raw:: html
