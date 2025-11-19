@@ -6,7 +6,7 @@ Contact details
 ===============
 
 `Economics and Computation Research Group <https://intranet.csc.liv.ac.uk/research/ecco/>`_  |br|
-`Department of Computer Science <http://www.csc.liv.ac.uk/>`_  |br|
+`School of Computer Science and Informatics <https://www.liverpool.ac.uk/computer-science-and-informatics/>`_  |br|
 `University of Liverpool <http://www.liv.ac.uk/>`_ |br|
 Ashton Building |br|
 Ashton Street |br|
