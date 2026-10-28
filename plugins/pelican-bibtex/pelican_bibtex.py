@@ -75,6 +75,7 @@ def add_publications(generator):
 
     html_backend = html.Backend()
 
+    html_backend.symbols = dict(html_backend.symbols)
     html_backend.symbols['br'] = u'<BR/>'
             
     all_entries = bibdata_all.entries.values()
