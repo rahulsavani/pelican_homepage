@@ -9,6 +9,10 @@ I joined the Department as a Lecturer (Assistant Professor) in October 2009,
 became a Senior Lecturer (Associate Professor) in 2013, a Reader in
 2015, and a Full Professor in 2017.
 
+Between 2023-04-01 and 2026-09-04 I was seconded to the Alan Turing Institute to lead a
+project "Automated Analysis of Strategic Interactions" with `Prof Ted Turocy <https://tturocy.github.io/>`_; 
+more info: https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions.
+
 Previously I was an EPSRC Postdoctoral Research Fellow in Theoretical Computer
 Science studying `algorithms for computing equilibria in games`_ at the
 University of Warwick (2006-2009).

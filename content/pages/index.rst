@@ -5,15 +5,6 @@
 :save_as: index.html
 :template: index
 
-Secondment to Alan Turing Institute (ATI)
------------------------------------------
-
-Since 2023-04-01 (until Sept 2026) I am seconded to the ATI to lead a
-project "Automated Analysis of Strategic Interactions" with `Prof Ted Turocy <https://tturocy.github.io/>`_; 
-more info: https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions.
-
-......
-
 .. raw:: html
 
     <IMG src="http://cgi.csc.liv.ac.uk/~rahul/images/rahul.jpg" alt="Rahul Savani" HEIGHT="130" style="float:right">
@@ -35,3 +26,7 @@ game theory/economics/finance and computer science. I have worked extensively on
 equilibrium computation for game-theoretic models of strategic interaction,
 recently focusing also on multi-agent reinforcement learning.
 I have also worked as a consultant on a variety of algorithmic trading projects. 
+
+With  `Prof Ted Turocy <https://tturocy.github.io/>`_,
+I co-lead the development of `Gambit <https://www.gambit-project.org/>`_, which is 
+the package for computation in game theory.
