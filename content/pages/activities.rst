@@ -59,7 +59,7 @@ PhD students
 Current:
 
 2024- `Botond Hamori <https://uk.linkedin.com/in/botond-hamori-a01584209>`_ (second supervisor);
-2023- `Shilong Deng <https://scholar.google.com/citations?user=79_LyAIAAAAJ>`_;
+2023- `Shilong Deng <https://scholar.google.com/citations?user=79_LyAIAAAAJ>`_ (second supervisor);
 
 Completed:
 
