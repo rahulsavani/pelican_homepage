@@ -81,11 +81,11 @@ Completed:
 Postdocs
 --------
 
-2025- `Stephen Pasteris <https://www.turing.ac.uk/people/researchers/stephen-pasteris>`_
+2025-2026 `Stephen Pasteris <https://www.turing.ac.uk/people/researchers/stephen-pasteris>`_
 (working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
-2024- `Daniel Kadnikov <https://www.turing.ac.uk/people/daniel-kadnikov>`_ 
+2024-2026 `Daniel Kadnikov <https://www.turing.ac.uk/people/daniel-kadnikov>`_ 
 (working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
-2024- `Eleni Batziou <https://dblp.org/pid/287/4779.html>`_ (working on EPSRC grant with John Fearnley (PI));
+2024-2026 `Eleni Batziou <https://dblp.org/pid/287/4779.html>`_ (working on EPSRC grant with John Fearnley (PI));
 2023-2025 `Yongzhao Wang <https://sites.google.com/umich.edu/yongzhao-wang/>`_ 
 (working on the ATI project: `Automated Analysis of Strategic Interactions <https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions>`_);
 2023  `Spencer Gordon <https://dblp.org/pid/195/5560.html>`_ (working on EPSRC grant with John Fearnley (PI));
